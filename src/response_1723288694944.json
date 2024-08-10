@@ -1,0 +1,46 @@
+{
+  "response_meta": {
+    "status_code": 200,
+    "message": "Fetched Specifications successfully"
+  },
+  "data": {
+    "summary": "Trip to Seattle for 3 days",
+    "places": [
+      {
+        "must_visit": true,
+        "place": "Seattle, WA, USA",
+        "pois": [
+          {
+            "poi": "Space Needle",
+            "must_visit": false
+          },
+          {
+            "poi": "Pike Place Market",
+            "must_visit": false
+          },
+          {
+            "poi": "Museum of Pop Culture (MoPOP)",
+            "must_visit": false
+          },
+          {
+            "poi": "Kerry Park",
+            "must_visit": false
+          },
+          {
+            "poi": "Chihuly Garden and Glass",
+            "must_visit": false
+          }
+        ],
+        "place_duration_value": 3,
+        "place_duration_unit": "days",
+        "place_start_date": "null",
+        "place_end_date": "null"
+      }
+    ],
+    "trip_duration_value": 3,
+    "trip_duration_unit": "days",
+    "trip_start_date": "null",
+    "trip_end_date": "null",
+    "number_of_travelers": "null"
+  }
+}

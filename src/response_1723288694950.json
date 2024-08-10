@@ -1,0 +1,4033 @@
+{
+  "response_meta": {
+    "status_code": 200,
+    "message": "Fetched Activities successfully"
+  },
+  "data": {
+    "Day 1": [
+      {
+        "title": "Chihuly Garden and Glass Seattle, WA, USA",
+        "og_idx_int": 0,
+        "place_index": 0,
+        "travel_index": [
+          -1,
+          -1
+        ],
+        "duration": 120,
+        "travel_time_to_this_place": 0,
+        "operational_hours": {
+          "open_now": true,
+          "periods": [
+            {
+              "close": {
+                "date": "2024-07-14",
+                "day": 0,
+                "time": "2200"
+              },
+              "open": {
+                "date": "2024-07-14",
+                "day": 0,
+                "time": "0830"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-15",
+                "day": 1,
+                "time": "2100"
+              },
+              "open": {
+                "date": "2024-07-15",
+                "day": 1,
+                "time": "0900"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-16",
+                "day": 2,
+                "time": "2100"
+              },
+              "open": {
+                "date": "2024-07-16",
+                "day": 2,
+                "time": "0900"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-17",
+                "day": 3,
+                "time": "2100"
+              },
+              "open": {
+                "date": "2024-07-17",
+                "day": 3,
+                "time": "0900"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-11",
+                "day": 4,
+                "time": "2200"
+              },
+              "open": {
+                "date": "2024-07-11",
+                "day": 4,
+                "time": "0900"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-12",
+                "day": 5,
+                "time": "2200"
+              },
+              "open": {
+                "date": "2024-07-12",
+                "day": 5,
+                "time": "0830"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-13",
+                "day": 6,
+                "time": "2200"
+              },
+              "open": {
+                "date": "2024-07-13",
+                "day": 6,
+                "time": "0830"
+              }
+            }
+          ],
+          "special_days": [
+            {
+              "date": "2024-07-14",
+              "exceptional_hours": true
+            },
+            {
+              "date": "2024-07-15",
+              "exceptional_hours": true
+            },
+            {
+              "date": "2024-07-16",
+              "exceptional_hours": true
+            },
+            {
+              "date": "2024-07-17",
+              "exceptional_hours": true
+            },
+            {
+              "date": "2024-07-11",
+              "exceptional_hours": true
+            },
+            {
+              "date": "2024-07-12",
+              "exceptional_hours": true
+            },
+            {
+              "date": "2024-07-13",
+              "exceptional_hours": true
+            }
+          ],
+          "weekday_text": [
+            "Monday: 9:00 AM – 9:00 PM",
+            "Tuesday: 9:00 AM – 9:00 PM",
+            "Wednesday: 9:00 AM – 9:00 PM",
+            "Thursday: 9:00 AM – 10:00 PM",
+            "Friday: 8:30 AM – 10:00 PM",
+            "Saturday: 8:30 AM – 10:00 PM",
+            "Sunday: 8:30 AM – 10:00 PM"
+          ]
+        },
+        "time_slot_to_visit": [
+          "9-15"
+        ],
+        "type": "ACTIVITY",
+        "start_time": 11,
+        "end_time": 13,
+        "current_opening_hours": {
+          "open_now": true,
+          "periods": [
+            {
+              "close": {
+                "date": "2024-07-14",
+                "day": 0,
+                "time": "2200"
+              },
+              "open": {
+                "date": "2024-07-14",
+                "day": 0,
+                "time": "0830"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-15",
+                "day": 1,
+                "time": "2100"
+              },
+              "open": {
+                "date": "2024-07-15",
+                "day": 1,
+                "time": "0900"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-16",
+                "day": 2,
+                "time": "2100"
+              },
+              "open": {
+                "date": "2024-07-16",
+                "day": 2,
+                "time": "0900"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-17",
+                "day": 3,
+                "time": "2100"
+              },
+              "open": {
+                "date": "2024-07-17",
+                "day": 3,
+                "time": "0900"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-11",
+                "day": 4,
+                "time": "2200"
+              },
+              "open": {
+                "date": "2024-07-11",
+                "day": 4,
+                "time": "0900"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-12",
+                "day": 5,
+                "time": "2200"
+              },
+              "open": {
+                "date": "2024-07-12",
+                "day": 5,
+                "time": "0830"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-13",
+                "day": 6,
+                "time": "2200"
+              },
+              "open": {
+                "date": "2024-07-13",
+                "day": 6,
+                "time": "0830"
+              }
+            }
+          ],
+          "special_days": [
+            {
+              "date": "2024-07-14",
+              "exceptional_hours": true
+            },
+            {
+              "date": "2024-07-15",
+              "exceptional_hours": true
+            },
+            {
+              "date": "2024-07-16",
+              "exceptional_hours": true
+            },
+            {
+              "date": "2024-07-17",
+              "exceptional_hours": true
+            },
+            {
+              "date": "2024-07-11",
+              "exceptional_hours": true
+            },
+            {
+              "date": "2024-07-12",
+              "exceptional_hours": true
+            },
+            {
+              "date": "2024-07-13",
+              "exceptional_hours": true
+            }
+          ],
+          "weekday_text": [
+            "Monday: 9:00 AM – 9:00 PM",
+            "Tuesday: 9:00 AM – 9:00 PM",
+            "Wednesday: 9:00 AM – 9:00 PM",
+            "Thursday: 9:00 AM – 10:00 PM",
+            "Friday: 8:30 AM – 10:00 PM",
+            "Saturday: 8:30 AM – 10:00 PM",
+            "Sunday: 8:30 AM – 10:00 PM"
+          ]
+        },
+        "overview": "Art museum & sculpture garden showcasing Dale Chihuly's large, colorful glass works.",
+        "geometry": {
+          "location": {
+            "lat": 47.6205599,
+            "lng": -122.3504476
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.62154828029149,
+              "lng": -122.34797575
+            },
+            "southwest": {
+              "lat": 47.61885031970849,
+              "lng": -122.35127155
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+        "photos": [
+          {
+            "height": 12000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111336891865015635249\">Christiane Highfill</a>"
+            ],
+            "photo_reference": "AUc7tXUpZbrt2sZO69h6Srf5xVqabFofy8YP7btsKI90nLNIw9R_2azsvsEFQfkgLBlBE4-BzYhqdjuh2YY_yQuEuapfD5vaTLJ0onOgwH54f2c_hUPSjZ6QCxJsGmVaIDpOuBmhzi9c0J1g6G2dVS-Q-T4nluRt7BTcbxQ8C6D6jPqCk6pT",
+            "width": 9000
+          },
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117858727310282868322\">Marilyn Brooks</a>"
+            ],
+            "photo_reference": "AUc7tXUIqa67cPwxI20dCat5Nb-c0AtA5DXEpP7G-MbcTPAK2OykfgUGscJg9DeQV2ukB0_v9P8Rr7p3ZgL8hRChrZ3-bAnLwtGrJbcoEa27jpEnH2c5z5jeSR917T4W2B4h0I9KP83_-fqDoCNpy3lse0BQ4kYXOkWAKmNLKb1tWzOuX8Ki",
+            "width": 3024
+          },
+          {
+            "height": 4000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103938034535141323401\">Xi Wang</a>"
+            ],
+            "photo_reference": "AUc7tXV4IpIWmt8_rf8mlhcZg4QisySPtonm7bw8uBtSNqSWbRgaq8zmYermjyq-TQf8iSfDl7O02yalWEnXyYqvvCax7n5EfG8AZ-BUmkJv-Ymi-e9BnUl-vlxfvY0YDsNzBSEYpPZ5JvSK6GXjAzzR8ZPdG4KOVYdStYYfLxkm-diTzE-0",
+            "width": 6000
+          },
+          {
+            "height": 3000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116318037550216586189\">Chris Döhring</a>"
+            ],
+            "photo_reference": "AUc7tXW_qmuyNb6rdPugz5L7gpDBpQCbaQOjDQ-ksZydOXeN9eQS5XcA7XYS_EAtvyRPMKYKtpE1RQd8u6HuZV4D1V60PMwT2byWZIED-iMKzEefWrYWHAWRuSXZfXtHPPDUAMlshRtN-oNRSK9rlK8raVWJR-da3N2OMCfzExWAT-OybSPc",
+            "width": 4000
+          },
+          {
+            "height": 9000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103892548776573346119\">Demetrius Gainer (Meech)</a>"
+            ],
+            "photo_reference": "AUc7tXXx6jenE9RTtyzbgk97X_x9Ch78SIkSeIop-6yZ6Av9Qu3JDHl62yz1XhIYzh1Zo27D55wt_6pJkVPaQaoe-rnQqECnPtMvYH32GBAJDhvw35cR_dnYaiSOJc8NtF-YHXPvKAmrXenwq8-oqZOMop8YzEphNYTf0Hc_TFxYaeys10Xi",
+            "width": 12000
+          },
+          {
+            "height": 4000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114436652360577873152\">Dwight Ali Williams</a>"
+            ],
+            "photo_reference": "AUc7tXWhYzYCIuLOy74lQikNsc1yH_jFzUk7Jrf3cwbBQCdIo8c5jzUIrLSo_26XRuMjCxAiKs-XsoKJLya4DkZmH_42lleqhra9xavgcIat83NDUuFTQrYPr_PFcxPZgUBHrAYqRksOQ_cQWTgt3wUp6B-twktxwy2-xL2v7oCmjhFuphFU",
+            "width": 3000
+          },
+          {
+            "height": 2442,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100627490334052754366\">T. M.</a>"
+            ],
+            "photo_reference": "AUc7tXXhPwsTepWDmUijzowIPh5p5UQIOCrakKdJLyVOAjTI1XbN1PYH35CDKjOsXpIH_n1HiPG0vDUaa13UJuO2Dc1tGWuIh2YeXI0cuPTecqyu-ltg4TO64qXRIujaUBL4OX57nRRhnffw_kfnMFxzfatquNIWUwEIJno1n1Goprpu9OmR",
+            "width": 2372
+          },
+          {
+            "height": 4080,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105222162895242812639\">Steve Granzyk</a>"
+            ],
+            "photo_reference": "AUc7tXUbanLg2e74O9Q41_zTIkbUfxdEi8b3h-T5E9sDwaNT2lx_2oLAzGmZT42YSMSrr5opZdse-jzskkM2OYNOLuRsaY54WH3LR4u8Kzst7TcDQ5RrRUNf_Sh8rdL-auYHp9pbr6QHovIhsTqRlYKelS373oXenGrgvhv2CBk8hP568YwK",
+            "width": 3072
+          },
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107195536185415991426\">Valérie</a>"
+            ],
+            "photo_reference": "AUc7tXX-QKShzjphazyXYkr9ykLA7B5Cu73WM3-YMtjscIp33WNemgEw4Zb7V0qjDE-AHBPuCdn-45DSexSmQnfCILaASO3I7CE5lH6mJvVA2DxYoelUlgUzQsu5ehvqVPgW-zdeFBEn1q3oFLOqAHttfjikY5-Uxdy_5DZLBmi-nPSZ1GXe",
+            "width": 4032
+          },
+          {
+            "height": 666,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104891846590589878774\">paul lan</a>"
+            ],
+            "photo_reference": "AUc7tXU4lQQLnMM6R4w5zyP3fphcvSS1EVMuJ48sjAREVdHRssaC4z1ZUHfjNWfwuAgmCEf8TLjq-LfgG5g9HsOS_mh93UGPF19tju_X0Th112QrozVZhEK69gHiCEIHyfYPgofOa4ieN64dIdsqKqtFQNC3J_dlLI4eejlsr488M9MQeHCa",
+            "width": 1000
+          }
+        ],
+        "rating": 4.7,
+        "user_ratings_total": 20969,
+        "avg_time_to_spend": 120
+      },
+      {
+        "type": "TRAVEL",
+        "title": "Travel via walking",
+        "start_time": 13,
+        "end_time": 13.015833333333333,
+        "metadata": {
+          "walking": {
+            "time_required_mins": 0.95
+          },
+          "transit": {
+            "time_required_mins": 0.95
+          },
+          "driving": {
+            "time_required_mins": 0.8
+          }
+        },
+        "time_required_mins": 0.95
+      },
+      {
+        "title": "Space Needle Seattle, WA, USA",
+        "og_idx_int": 1,
+        "place_index": 1,
+        "travel_index": [
+          0,
+          1
+        ],
+        "duration": 120,
+        "travel_time_to_this_place": 0.8,
+        "operational_hours": {
+          "open_now": true,
+          "periods": [
+            {
+              "close": {
+                "date": "2024-07-15",
+                "day": 1,
+                "time": "0000"
+              },
+              "open": {
+                "date": "2024-07-14",
+                "day": 0,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-16",
+                "day": 2,
+                "time": "0000"
+              },
+              "open": {
+                "date": "2024-07-15",
+                "day": 1,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-17",
+                "day": 3,
+                "time": "0000"
+              },
+              "open": {
+                "date": "2024-07-16",
+                "day": 2,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-17",
+                "day": 3,
+                "time": "2359",
+                "truncated": true
+              },
+              "open": {
+                "date": "2024-07-17",
+                "day": 3,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-12",
+                "day": 5,
+                "time": "0000"
+              },
+              "open": {
+                "date": "2024-07-11",
+                "day": 4,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-13",
+                "day": 6,
+                "time": "0000"
+              },
+              "open": {
+                "date": "2024-07-12",
+                "day": 5,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-14",
+                "day": 0,
+                "time": "0000"
+              },
+              "open": {
+                "date": "2024-07-13",
+                "day": 6,
+                "time": "0800"
+              }
+            }
+          ],
+          "special_days": [
+            {
+              "date": "2024-07-14",
+              "exceptional_hours": true
+            },
+            {
+              "date": "2024-07-15",
+              "exceptional_hours": true
+            },
+            {
+              "date": "2024-07-16",
+              "exceptional_hours": true
+            },
+            {
+              "date": "2024-07-17",
+              "exceptional_hours": true
+            },
+            {
+              "date": "2024-07-11",
+              "exceptional_hours": true
+            },
+            {
+              "date": "2024-07-12",
+              "exceptional_hours": true
+            },
+            {
+              "date": "2024-07-13",
+              "exceptional_hours": true
+            }
+          ],
+          "weekday_text": [
+            "Monday: 8:00 AM – 12:00 AM",
+            "Tuesday: 8:00 AM – 12:00 AM",
+            "Wednesday: 8:00 AM – 12:00 AM",
+            "Thursday: 8:00 AM – 12:00 AM",
+            "Friday: 8:00 AM – 12:00 AM",
+            "Saturday: 8:00 AM – 12:00 AM",
+            "Sunday: 8:00 AM – 12:00 AM"
+          ]
+        },
+        "time_slot_to_visit": [
+          "9-15"
+        ],
+        "type": "ACTIVITY",
+        "start_time": 13.02,
+        "end_time": 15.02,
+        "current_opening_hours": {
+          "open_now": true,
+          "periods": [
+            {
+              "close": {
+                "date": "2024-07-15",
+                "day": 1,
+                "time": "0000"
+              },
+              "open": {
+                "date": "2024-07-14",
+                "day": 0,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-16",
+                "day": 2,
+                "time": "0000"
+              },
+              "open": {
+                "date": "2024-07-15",
+                "day": 1,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-17",
+                "day": 3,
+                "time": "0000"
+              },
+              "open": {
+                "date": "2024-07-16",
+                "day": 2,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-17",
+                "day": 3,
+                "time": "2359",
+                "truncated": true
+              },
+              "open": {
+                "date": "2024-07-17",
+                "day": 3,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-12",
+                "day": 5,
+                "time": "0000"
+              },
+              "open": {
+                "date": "2024-07-11",
+                "day": 4,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-13",
+                "day": 6,
+                "time": "0000"
+              },
+              "open": {
+                "date": "2024-07-12",
+                "day": 5,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-14",
+                "day": 0,
+                "time": "0000"
+              },
+              "open": {
+                "date": "2024-07-13",
+                "day": 6,
+                "time": "0800"
+              }
+            }
+          ],
+          "special_days": [
+            {
+              "date": "2024-07-14",
+              "exceptional_hours": true
+            },
+            {
+              "date": "2024-07-15",
+              "exceptional_hours": true
+            },
+            {
+              "date": "2024-07-16",
+              "exceptional_hours": true
+            },
+            {
+              "date": "2024-07-17",
+              "exceptional_hours": true
+            },
+            {
+              "date": "2024-07-11",
+              "exceptional_hours": true
+            },
+            {
+              "date": "2024-07-12",
+              "exceptional_hours": true
+            },
+            {
+              "date": "2024-07-13",
+              "exceptional_hours": true
+            }
+          ],
+          "weekday_text": [
+            "Monday: 8:00 AM – 12:00 AM",
+            "Tuesday: 8:00 AM – 12:00 AM",
+            "Wednesday: 8:00 AM – 12:00 AM",
+            "Thursday: 8:00 AM – 12:00 AM",
+            "Friday: 8:00 AM – 12:00 AM",
+            "Saturday: 8:00 AM – 12:00 AM",
+            "Sunday: 8:00 AM – 12:00 AM"
+          ]
+        },
+        "overview": "Iconic, 605-ft-tall spire at the Seattle Center, with an observation deck & a rotating restaurant.",
+        "geometry": {
+          "location": {
+            "lat": 47.6205063,
+            "lng": -122.3492774
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.62181838029149,
+              "lng": -122.3479476697085
+            },
+            "southwest": {
+              "lat": 47.6191204197085,
+              "lng": -122.3506456302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "photos": [
+          {
+            "height": 16320,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101332224791589661085\">Andrij Abyzov</a>"
+            ],
+            "photo_reference": "AUc7tXUE_RpFrUCYvc8EwrolHYGsySAKh1wSerm7q4ehF0OBtYTpyxFRJTlKnoYUG8FFsCKdrqPVXA6-8PXvrAlvREy-PIg2Ws1uZsuG5UZutgl4OZ6PvoaBh_BaXEd_8tEhsZ7O7SRvR95TuKP8F8esBiDVJ93hmfs9-Wduup1JqWcSXkqZ",
+            "width": 12240
+          },
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113945409063991170182\">Rachel Helling</a>"
+            ],
+            "photo_reference": "AUc7tXXTQqBrYxumKzp7S_nvDfZasOWNYcvvZfjQ0r-Jd-XLjwX2acShMSPw_HcdlwpHqMzoHylyOxYdEu0KeeMjvJ2EnIwasHxjM6xtG10nluY6_R64KIBodivRK-BbyAlTzQkoGrHNqFJz8Tk4QxqTCpPxleKKdDgGpSWEEFeaewBrPTpf",
+            "width": 4032
+          },
+          {
+            "height": 435,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103345705943248635395\">MASUM MONDAL</a>"
+            ],
+            "photo_reference": "AUc7tXUpMGHtADcaiDkzlaU4x7PNARI39JmPf40-hNvTaxWwFKNmP3UTM2Nqa00uRsNIt9IHoksj9LeOPzIoAYw6_5PKDHdVzKm_8hxl9hXXujXYdvYBDIrTMfUJBeGGsuzFf4Bzf1MurGRvsOibT_D-UgcWrA9eDf0pq4OhDT-Tnsognk__",
+            "width": 824
+          },
+          {
+            "height": 9000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117077243489907509428\">Glenn Myres</a>"
+            ],
+            "photo_reference": "AUc7tXUFNuHFkwDnsdtWWkvOQ8n-7Y8Pi6RMQCpWmOmqDbORD4YNWF_Yzols-HBlpCjxDhNxfH4BW7mBksNlM0oA0HJC17XBZEYzER_UUMoMIMUGF8SHxdyL1Fv-Jlq5RT9l7VECVnxa1Kx2Qpq4ZAO1qmk-kOoL6_pEahETWA2ZtCyfiA_4",
+            "width": 12000
+          },
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104535305501086678603\">Elona Goldman</a>"
+            ],
+            "photo_reference": "AUc7tXVl0ZUpxTxRsSuL06lroKuYC0MMM0YBw3IYsCqt_S290PfSEb6eTEDRMhiHWHuKJ40wjQYA-SxXaUtdcBW9JRGuqVofL4jT8OKlqlyOs2i3QYb5GOkMC52EFWpee4y7sIl4Y1KGymHAwlrHO6DhaaPBHAibbbXqrxCodArbS9tLdV7W",
+            "width": 4032
+          },
+          {
+            "height": 3744,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101346258843339343315\">Leon BIGPAKE Ho</a>"
+            ],
+            "photo_reference": "AUc7tXXSlTbIFvWtex7hdjSjh5YWwK9yLsJ3wNh52w1Pza_ulX2wy_lcHJYIAX5G-5SgOHW6jhhHeysLCiqQZGHC2Msgt7KXJTFZO_FA5245n-5AWJHUW6VwNELir2nsxOr_CJ95lcpfCtfpceWeS4RaAa_c1piPDSrCv0NU1pXOwK704XAV",
+            "width": 3000
+          },
+          {
+            "height": 6120,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115184196601154793950\">Ruslan Lysak</a>"
+            ],
+            "photo_reference": "AUc7tXX830TnRquR5BJ7EKi1tFfhzG9C-u1_URJmHJbJrMSZPA6b3na1px1upp3kaSX-B-QV-i72s7ExeRwQjSEvpEB6ir0E408QdWrrHu3o-1ZNcgazR4F5Tl4M9iGI7LSZUxBxCHcafkm_qqUKBD0-sVnEaRv4zlz8t-SwN36vDGtIHVpq",
+            "width": 8160
+          },
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110434921775816072197\">Jon P.</a>"
+            ],
+            "photo_reference": "AUc7tXWCeKz789nvlpSJgYv_27ns_3ZegotMrYmp0qb_hsLltKItTD9bzUe0J0-Vb-gFTWQl12JZ3Irni94nA-8Kz_MWURxMaIsJmpl4IzNIcKsfOvBU4SuZwis_FpNRlCj-2-p9wZjzOcPBiASJUgdmkBlWviU5U1tKohF3qE63KTb1HbqM",
+            "width": 4032
+          },
+          {
+            "height": 9000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112346565337414364425\">Anthony Mc</a>"
+            ],
+            "photo_reference": "AUc7tXXcQ3U7wzzp5C2KrIo41-Kk1RvwBtbbQJl67DMKhOvoUhNAuawU03qpdzcNA9EYW_xpkEVOMkJyxPeyTCmy16AucPSdvvuXINA5cP_LM7jnD7n3kTTeDQL8QtTdkp3_4drXAi735cUWz3THq6XVD-2UDaOB3Vt_ZwwMYkqtXb5YPMpq",
+            "width": 12000
+          },
+          {
+            "height": 2399,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115848339781016213755\">John M</a>"
+            ],
+            "photo_reference": "AUc7tXUz8zjYTWN5FajzapLuwUxN0rcB1Cg0Ya0J4PKMheXSvOw0ZdLW-Ib62ItwqzeRAkGj933zZyhTkuQ6wQqZsE5JkFC4BqUlXfdwBbyI8ZUuujNOstOmcmCAq1y4FWYYZSUS1n0Spqpk8AK3MEM5TkHA0LAvvgCwfsYvl5AhewBCaGtl",
+            "width": 4000
+          }
+        ],
+        "rating": 4.6,
+        "user_ratings_total": 48811,
+        "avg_time_to_spend": 120
+      },
+      {
+        "type": "TRAVEL",
+        "title": "Travel via driving",
+        "start_time": 15.02,
+        "end_time": 15.13,
+        "metadata": {
+          "walking": {
+            "time_required_mins": 23.88
+          },
+          "transit": {
+            "time_required_mins": 12.33
+          },
+          "driving": {
+            "time_required_mins": 6.75
+          }
+        }
+      },
+      {
+        "title": "Pike Place Market Seattle, WA, USA",
+        "og_idx_int": 2,
+        "place_index": 2,
+        "travel_index": [
+          1,
+          2
+        ],
+        "duration": 120,
+        "travel_time_to_this_place": 6.75,
+        "operational_hours": null,
+        "time_slot_to_visit": [
+          "9-15"
+        ],
+        "type": "ACTIVITY",
+        "start_time": 15.13,
+        "end_time": 17.13,
+        "current_opening_hours": null,
+        "overview": null,
+        "geometry": {
+          "location": {
+            "lat": 47.6096659,
+            "lng": -122.3421671
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.61252182774948,
+              "lng": -122.3379951704463
+            },
+            "southwest": {
+              "lat": 47.60680214726932,
+              "lng": -122.3464868616429
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+        "photos": [
+          {
+            "height": 1536,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107998041672085354458\">Brendan DS</a>"
+            ],
+            "photo_reference": "AUc7tXVoXvOyocshzfC6I_5Ry6NR9CNdzZEDUp5KHxkzQPKG15tN7N-8YC5qrlUT5G50U-m4Gw6ftWCt281V5oXsMkIYrduTluGxvG_C7Vsrkxlv3qpV6yrJyKjJQCA3j93S4O3qpAYeQVYe_zyfu3jQ-VXa-Di6_IQDY0yDy8gpuNpfz5Z9",
+            "width": 2048
+          },
+          {
+            "height": 2560,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104805372911199819074\">Juno Yoon</a>"
+            ],
+            "photo_reference": "AUc7tXVy_x8LGBeWqEzT1_QCUya5Ds55EyJLFSTazBy_e8ZlfTtoMxqjeA50VQ4I0WzK2sfgU6soORyOYDvw1welW7m8EBUSOuZwdYMgULy_PBzxHN_jXhyARi-oM7nOFFMWDvy-Qa8vykJiacLVY0PgL2YBMEacZ91gA2xirWBf1g1nVPV1",
+            "width": 3840
+          },
+          {
+            "height": 2143,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101304999013857536919\">Mark Prusiecki</a>"
+            ],
+            "photo_reference": "AUc7tXVTnbxWY8-SUu9Ih1jLv-ijU66S0dE1T_MtZia3kkb5iahuIawaXGiH3sEXgBa3I2oAo0LQr5bxT2eddP8VlyEsecTrzzc_kOGW5QPtMqijXlyI6fLvk21yhqJumnBMjjr7IDuXceQg_DT738ysX_c9Ly2YnDgpdKud6REY3J_C1YDf",
+            "width": 3000
+          },
+          {
+            "height": 1960,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102884442062005361672\">Janae Supuni</a>"
+            ],
+            "photo_reference": "AUc7tXXi1Wn0DKi9iXbnm2-ibWmnAfXIYmoCSOG6wjz_a4sk35CztV8tAX2nV9oTinnqQ-hKV39AlBqP6RzbvEduwnP7Zik445ktKjwMFtG-fXNqVXqSQmBsP9R_TycHbAjeLroFHRvD-G1zIymzxmU2mvEiXbp6VktatZOeDjrjKLHoiQ1s",
+            "width": 4032
+          },
+          {
+            "height": 533,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110181646681009760710\">Tina Webb</a>"
+            ],
+            "photo_reference": "AUc7tXXog-nJ4sl_TDbu_xP2Buq_SWPkG7VqdGQqwWA_2ilwLMqpe5VD47A0EiTNsCBC_qsSiSAeLTfD8XF7z7Xfp0jc1WYURzh2RMZVdgQsMXVx-8HXsBkg96FswKmFa5tnvXtUk48Kp3VBlBbvi_5eJYWDyZv1TzNzxmXgeKQrp8Ogb8Or",
+            "width": 960
+          },
+          {
+            "height": 2176,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103063726505884965215\">Julia Rivera</a>"
+            ],
+            "photo_reference": "AUc7tXXWpPEHuKuGDvnUpAqrtSqJ_ocTq2RxLXwhJA_ShQaMEmrmBmeUyDeAqD_B3zl2xUxhLczwbeycs_7URVFzco0VVnWJBNyyXy4IRwzpn6a1K0fbRDZum02aIKpOVcn6ixTB3EnVchseTtdz_oKtFqgZoTMR6Bj6q_OVnmdGVc5HTYQ",
+            "width": 4608
+          },
+          {
+            "height": 2252,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114870029912851252107\">nou shoua Vang</a>"
+            ],
+            "photo_reference": "AUc7tXVwHcg0eUxf8bVpAjxIp6E7q9puooVpiwUVNzOZ8H5jSlgrBm6fX8GXQvBj-mQG-ABUyq61Lgko-2byOxJcyDtYgx7P9jqlx1vLafuEqwgr-yoAOjQ37nfu691-Diu61AYso2YLw5yVzXdph_1jfbr6RpegVjzM5QJFogT3DcTs-vYH",
+            "width": 4000
+          },
+          {
+            "height": 3000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109409907666251472815\">Jay Zaragoza</a>"
+            ],
+            "photo_reference": "AUc7tXWscj-BOGqSiUkAF4rXGrJE7BfxV8lt8P2E03Po8BwBh_SSYgp_xt0CuSTKkBzgagdE24vTDTthfU9wVGVtn1rRSiO80GlefxfnKo01G62TyDti6LhyqXI9kAg8lOw2H74KBGLIx6gASfVB4BfRDOazr_EwbBxia8gQESYz6rYBtHAr",
+            "width": 4000
+          },
+          {
+            "height": 3000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108371386792196180974\">Pratikshya Panigrahi</a>"
+            ],
+            "photo_reference": "AUc7tXU5TSrA0B23ZyALUvgGMxoqUfmvGAMu_89jm-7IEJmnu3j1a-MQDCv4V5kThytMdebmv_nnk9h-zsw5QejVVQldRnqcjz4gOedmy-8MDJkC53q-4-IRtDjpmNJ7ox4GlK76cc78TmutEx9RPr5q3b4_1Lx2U4JTgXg6rxAyux004mGT",
+            "width": 4000
+          },
+          {
+            "height": 4000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117612947589467992757\">Sima Gendelman</a>"
+            ],
+            "photo_reference": "AUc7tXX3tqCyKFnIVaypY7qMtTaQhPTE2O3SxkzHTY63Ke6eN8pjrc9CwzLqMORgOQZJQs6Unm22OnSKGXSEhTq8o3pnGWtMqKd-ycirSya-GwTWlKU5PaZprL4wqcxhha-ZJaRRB7pFkmrJ1VK1acs-4_c1fLK8aM8dvIlroFRcn9du2LMK",
+            "width": 3000
+          }
+        ],
+        "rating": null,
+        "user_ratings_total": null,
+        "avg_time_to_spend": 120
+      },
+      {
+        "type": "TRAVEL",
+        "title": "Travel via walking",
+        "start_time": 17.128333333333334,
+        "end_time": 17.18166666666667,
+        "metadata": {
+          "walking": {
+            "time_required_mins": 3.2
+          },
+          "transit": {
+            "time_required_mins": 3.2
+          },
+          "driving": {
+            "time_required_mins": 2.23
+          }
+        },
+        "time_required_mins": 3.2
+      },
+      {
+        "title": "The Gum Wall Seattle, WA, USA",
+        "og_idx_int": 56,
+        "place_index": 56,
+        "travel_index": [
+          22,
+          56
+        ],
+        "duration": 30,
+        "travel_time_to_this_place": 3.9166666666666665,
+        "operational_hours": {
+          "open_now": true,
+          "periods": [
+            {
+              "close": {
+                "date": "2024-07-17",
+                "day": 3,
+                "time": "2359",
+                "truncated": true
+              },
+              "open": {
+                "date": "2024-07-11",
+                "day": 4,
+                "time": "0000",
+                "truncated": true
+              }
+            }
+          ],
+          "weekday_text": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+          ]
+        },
+        "time_slot_to_visit": [
+          "9-15"
+        ],
+        "type": "ACTIVITY",
+        "start_time": 17.18,
+        "end_time": 17.68,
+        "current_opening_hours": {
+          "open_now": true,
+          "periods": [
+            {
+              "close": {
+                "date": "2024-07-17",
+                "day": 3,
+                "time": "2359",
+                "truncated": true
+              },
+              "open": {
+                "date": "2024-07-11",
+                "day": 4,
+                "time": "0000",
+                "truncated": true
+              }
+            }
+          ],
+          "weekday_text": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+          ]
+        },
+        "overview": "Iconic brick wall covered with chewed-up gum in an alley under Pike Place Market.",
+        "geometry": {
+          "location": {
+            "lat": 47.6083607,
+            "lng": -122.3403382
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.6097055802915,
+              "lng": -122.3389557197085
+            },
+            "southwest": {
+              "lat": 47.6070076197085,
+              "lng": -122.3416536802915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "photos": [
+          {
+            "height": 3456,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114246814151335572510\">David Iwanow</a>"
+            ],
+            "photo_reference": "AUc7tXX7JXLriVKAGZeBAXeToxxA4qli4jZO_-J68tqbgJ6hNuTBJk_h0WvGGEKPZ74G1hp4FVbQit0HMbjXxa08H3KWks44_zUKkhFFS0Kl68jqLmdx27LJbmWpY2Ufgsqwf4U-sQxX2IOgboSSNkfV_onqwQ6_Q8o9NSt-oXjhwdZ9BM8R",
+            "width": 5184
+          },
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110199465000738032866\">Rupin Talreja</a>"
+            ],
+            "photo_reference": "AUc7tXXF3Av_TVH0IZPHfAQsQcHl9rV54iO1atQ7xLVtovcj_R65SIuhGYI8vfhbYdrb_WytnhYt4knU1ZNKR1n2dfw_p7eQYpy6LgeLh6uNvpdWRmnyzBEY1m_GKg-0Kg2ZCcGA1mFM4ozn30l2UsqgqzfhwITHgSF4pLt94YLwmrzOecE1",
+            "width": 2268
+          },
+          {
+            "height": 3000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100209760653878226035\">Dominique Zachery</a>"
+            ],
+            "photo_reference": "AUc7tXU4iK-Ntj561bGsMQVU8Z3_KlYcTiIzF4ncrWo6JnQbjworg9BN--EzykXIBHfjtR01S0s5Be5v1DxpkrSW_GgkrXXdjPFYZsttCYtngVxzUN0Z5BaDREwWeFYM8wzJ1xW7i8_53qPs95Yej-Pc0xxsR6W5XSuTCK9xX_KGOJc8htuU",
+            "width": 4000
+          },
+          {
+            "height": 2588,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102453127497438386567\">Mason</a>"
+            ],
+            "photo_reference": "AUc7tXX_wtNKAhj55C2oEJsKfZjTHutwsBymlm5DhjK-RVaW8EfwowArEy6MGof19AgUdNkRRefrbzRCxAE5D9WHsU8TfKfMOe7_2jGSRLPNKU-dO3ZT9QHqDXYOA_dp4MR2WeTV2ahFGzOtI0ZjR2OPAfYRPh8a6YTA4Qb9JzCv1HfVlSUh",
+            "width": 3882
+          },
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110156385435204818132\">Corey</a>"
+            ],
+            "photo_reference": "AUc7tXXwNpDxfKCuXiLEWxdi8RaG_urrN3OBf-RVyoHAofyA7ucLh2sk7Dl5zPljQqr1FkwBkZWUc28Wf6Fb0TijOEo9lT3IJ7orMa-uapA-ujjzkMgezedRwRpOfVnxIqPgGT3OW-5X42JVJAd4HOcjAEjavCMn2ffo-v_JxKar8Gwa0kn6",
+            "width": 4032
+          },
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103119596290328100806\">Anthony Wu</a>"
+            ],
+            "photo_reference": "AUc7tXUqBsWZh_ZEjNxkWNHPv0ZfzShcxxH0l-bX23Ek_eTBrVYqdMdAdSROIGXVco2Hu-DPCWtMjme1TkpEBUmF9fHX_r4oWd3KAAMzZargoYltZB87vKhDWOGQP68gX5XA2nfP3jqg2CYho-mmPpu3XfemTLOqjxiqADDiDMPTLPz6ZiAK",
+            "width": 4032
+          },
+          {
+            "height": 4373,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102512455990549272939\">Ariel Charles</a>"
+            ],
+            "photo_reference": "AUc7tXVKj_PGSYkHyi6RNZrzmW7_NjABKSJcrZ4EkEc6rOCzyRzBhiMja9rPLnn3petmjfXsekcTl9iULN4Up-jvN5b45iyw8zjeBhKFu5FmJU7j7DfI1lQqArZ-KbqxiQxS2aP-RlSphSHW12szKKTOWcPk2i8LMzBP72ZugqsK22Dpvzw5",
+            "width": 3492
+          },
+          {
+            "height": 4000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110609633938457895412\">Scott Cain</a>"
+            ],
+            "photo_reference": "AUc7tXWGdzFm5ev_cvtHAgzsW8nzPqdvhmfCAlvB3zXYgVGG4YhYmIqdUIEv8gks5JT7l2r7tizEqlpG41_mGJCtM8eNBgAKsnx0lBuxkB_VU8hnOdM8cbL126dfrdzoNwveHHijGmpBfv67dB4rS76MgvoxNFrFqTtjSB3uwo6ni5FkEZj5",
+            "width": 3000
+          },
+          {
+            "height": 3952,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108753214806314747059\">Ella McRae</a>"
+            ],
+            "photo_reference": "AUc7tXWWNX6nZ32GChaJihksr9pwP0VRraLRylk_4eelgCZW3a6LWznE0Df_bahsKdB2gVz_jC9HRP7AUURArZh35Jx7gRXp8TZkdMVpokiGTcqrTnm-0JbVoDlYWb8S3Kyvaoj1Aii6XCWr8pugvT7Xwu0ZOuxhWzV5t-6e-maxYavDAld9",
+            "width": 1824
+          },
+          {
+            "height": 3000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101204180346843903894\">Katrina Dayton</a>"
+            ],
+            "photo_reference": "AUc7tXVLym-6VmIkFjBfbGV8VV_ShLKjPkCcXA8iio7_omfuYYpD0bladaPNKaG9jcI6BHhGpoovs64LPNqjvqqBSsBqxTVyUsSHNMhsYoxW9rFn4LD4zk_82u2TNwNgmqUh6-7GF7oT2PQ7ghj5JkE1h9jrZlvqHra0dNbDDwneIqRuhMZa",
+            "width": 4000
+          }
+        ],
+        "rating": 4.2,
+        "user_ratings_total": 11019,
+        "avg_time_to_spend": 30
+      },
+      {
+        "type": "TRAVEL",
+        "title": "Travel via driving",
+        "start_time": 17.68,
+        "end_time": 17.75,
+        "metadata": {
+          "walking": {
+            "time_required_mins": 7.28
+          },
+          "transit": {
+            "time_required_mins": 7.28
+          },
+          "driving": {
+            "time_required_mins": 3.92
+          }
+        }
+      },
+      {
+        "title": "Argosy Cruises - Seattle Waterfront Seattle, WA, USA",
+        "og_idx_int": 22,
+        "place_index": 22,
+        "travel_index": [
+          14,
+          22
+        ],
+        "duration": 60,
+        "travel_time_to_this_place": 0.3333333333333333,
+        "operational_hours": {
+          "open_now": false,
+          "periods": [
+            {
+              "close": {
+                "date": "2024-07-14",
+                "day": 0,
+                "time": "1930"
+              },
+              "open": {
+                "date": "2024-07-14",
+                "day": 0,
+                "time": "1000"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-15",
+                "day": 1,
+                "time": "1930"
+              },
+              "open": {
+                "date": "2024-07-15",
+                "day": 1,
+                "time": "1000"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-16",
+                "day": 2,
+                "time": "1930"
+              },
+              "open": {
+                "date": "2024-07-16",
+                "day": 2,
+                "time": "1000"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-17",
+                "day": 3,
+                "time": "1930"
+              },
+              "open": {
+                "date": "2024-07-17",
+                "day": 3,
+                "time": "1000"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-11",
+                "day": 4,
+                "time": "1930"
+              },
+              "open": {
+                "date": "2024-07-11",
+                "day": 4,
+                "time": "1000"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-12",
+                "day": 5,
+                "time": "1930"
+              },
+              "open": {
+                "date": "2024-07-12",
+                "day": 5,
+                "time": "1000"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-13",
+                "day": 6,
+                "time": "1930"
+              },
+              "open": {
+                "date": "2024-07-13",
+                "day": 6,
+                "time": "1000"
+              }
+            }
+          ],
+          "weekday_text": [
+            "Monday: 10:00 AM – 7:30 PM",
+            "Tuesday: 10:00 AM – 7:30 PM",
+            "Wednesday: 10:00 AM – 7:30 PM",
+            "Thursday: 10:00 AM – 7:30 PM",
+            "Friday: 10:00 AM – 7:30 PM",
+            "Saturday: 10:00 AM – 7:30 PM",
+            "Sunday: 10:00 AM – 7:30 PM"
+          ]
+        },
+        "time_slot_to_visit": [
+          "9-15"
+        ],
+        "type": "ACTIVITY",
+        "start_time": 17.75,
+        "end_time": 18.75,
+        "current_opening_hours": {
+          "open_now": false,
+          "periods": [
+            {
+              "close": {
+                "date": "2024-07-14",
+                "day": 0,
+                "time": "1930"
+              },
+              "open": {
+                "date": "2024-07-14",
+                "day": 0,
+                "time": "1000"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-15",
+                "day": 1,
+                "time": "1930"
+              },
+              "open": {
+                "date": "2024-07-15",
+                "day": 1,
+                "time": "1000"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-16",
+                "day": 2,
+                "time": "1930"
+              },
+              "open": {
+                "date": "2024-07-16",
+                "day": 2,
+                "time": "1000"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-17",
+                "day": 3,
+                "time": "1930"
+              },
+              "open": {
+                "date": "2024-07-17",
+                "day": 3,
+                "time": "1000"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-11",
+                "day": 4,
+                "time": "1930"
+              },
+              "open": {
+                "date": "2024-07-11",
+                "day": 4,
+                "time": "1000"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-12",
+                "day": 5,
+                "time": "1930"
+              },
+              "open": {
+                "date": "2024-07-12",
+                "day": 5,
+                "time": "1000"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-13",
+                "day": 6,
+                "time": "1930"
+              },
+              "open": {
+                "date": "2024-07-13",
+                "day": 6,
+                "time": "1000"
+              }
+            }
+          ],
+          "weekday_text": [
+            "Monday: 10:00 AM – 7:30 PM",
+            "Tuesday: 10:00 AM – 7:30 PM",
+            "Wednesday: 10:00 AM – 7:30 PM",
+            "Thursday: 10:00 AM – 7:30 PM",
+            "Friday: 10:00 AM – 7:30 PM",
+            "Saturday: 10:00 AM – 7:30 PM",
+            "Sunday: 10:00 AM – 7:30 PM"
+          ]
+        },
+        "overview": null,
+        "geometry": {
+          "location": {
+            "lat": 47.6050418,
+            "lng": -122.340319
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.6065552802915,
+              "lng": -122.3385648697085
+            },
+            "southwest": {
+              "lat": 47.6038573197085,
+              "lng": -122.3412628302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "photos": [
+          {
+            "height": 1596,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107236647823629696307\">Argosy Cruises - Seattle Waterfront</a>"
+            ],
+            "photo_reference": "AUc7tXUF8IBBQkpail4PU6cVA8GgRmAhfO5wRB-DnMTSy2L0C1Yo5BRYLjgK7vBaAMfPtsa8pL67o9fjvAXicCZQ9_mRIyO9rkX7LlNlAUkIc8Qe7w0zEpTmOnntqnKUcv2p3SOWPhFhzynj3vLUA71XFAJcTeNdGGOsod6fkN3MCY5HQcOM",
+            "width": 2048
+          },
+          {
+            "height": 1908,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116344945380930475074\">Nancy</a>"
+            ],
+            "photo_reference": "AUc7tXWaeUt0dpOFMRZFsHfUCjfpxhp4owM7C_Tcm9-d9PKhkUvzvdpzq8I2y-102oIxNARzjE1bwXLV-wnHp-bKLnvkpf56Qvm3ia1h4BnZ4xrhPj5-GHHxt1VNB1PuzJzyOy0M4UFlayj93yvRmF5MbXCCYGeOeia85n9Pj8Vr9pxIe_wW",
+            "width": 4032
+          },
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113272758949444582920\">Mary Kelly</a>"
+            ],
+            "photo_reference": "AUc7tXWQgku076z3Cs_7dHpLyEjIKVD7w_lxD4LIp1fwUN05HQM14SAKiNwJLMjZ9DtaaFHnnhTC3C8w2ClCIrHDgv3HVDwj9MOz-Z_HyKggzwiFoZqd3YJ9v3C3Vls1DyBqwwL8-S2ePQt3KH7icXQeI6Jvxdt3K8hK4116EEdLXDdmDzXu",
+            "width": 4032
+          },
+          {
+            "height": 1363,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117561821694330022628\">Henry Roberto Umana Acosta</a>"
+            ],
+            "photo_reference": "AUc7tXXO9_ZJguiRM5zQi1VIs9FCQ6iqKtejTcJ-TzaJE7vWW4w1FBcvPgdhgwtMnQMUhjA0gfcG3EXdP8MQitxuJDC6mr8YCW6iSBzBTUTFSmGbodew8OETtw_O4FDsaBclcgjmmW-FYaAqeCrdRwRpydL7_UoQpitmjzt8DVd9VewVn_Zj",
+            "width": 2022
+          },
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114979885903232917809\">Jeff Ashburn</a>"
+            ],
+            "photo_reference": "AUc7tXWqQq9I4jUCba-Hxj6TBbizeWNmVLaU2o6ZDuYnnulaSZqYAIhShloqCmu9ek75Wymo3dSYHW9SgsnMqyZ9Djurlnnq3Dbb611J6f26R30jG_p4gtn88KDFIuXRm36Cw4kJm78ym5-6psWPGmWle2jkeMrU0rNdQBzSMEIvxu9RZHt-",
+            "width": 4032
+          },
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112084947420977423124\">Clint Barret</a>"
+            ],
+            "photo_reference": "AUc7tXWh-dNehVMUcvzFd4frS1Ngjx4b2d2wsXrKzgqp00sDGqDnF6DwNC4qmV-ZdgTJUtJBpFf5hzXkpLZOnmbgdlttYO1yWVJCgccFxtsuQvlZyy-vDraIoZ71gvsp24o-bbj40NfZP_uTAoVjO6yEJOLwWpqm6j0LSGIFc90QOxq1xpbC",
+            "width": 4032
+          },
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107444840004575071084\">Yash V</a>"
+            ],
+            "photo_reference": "AUc7tXUGtNaYU_Rhz7bD4J1a3dqiseeJ7dTi7pMtuvMqzon9ttzwAR5sJL-gHiypSX2KjM7ht1LM9W28RPdjoOk7gSogCpMzLZ1J5IzfAHhttEVx4z09N3K1zRtU3CargWw0AeyPJwatfJUDG3CGnb4UHT9FCk27CVdKV45YKRWFg9Kfp8Co",
+            "width": 4032
+          },
+          {
+            "height": 3000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109719437530535178424\">Brie Riding</a>"
+            ],
+            "photo_reference": "AUc7tXUVgYx-g64BilXa36dVbKCpD4DOrC-wzscslDjbTym5Bmix27Mw5gOtYnRGz5RAGb_HiDtAFYH-C5yE10JJdCxLbWnzQ6wZtvVmgKPWpmvMKsXFMDxBysNmscmEDzoLAv2paj-KKhhEhAQnh6UhDCn8NWHIdRu5tPF7rRG4_YZUQMiE",
+            "width": 4000
+          },
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105375050555783970519\">Nick B</a>"
+            ],
+            "photo_reference": "AUc7tXUuNYeP8WaZpgOBe6WLu35CX6Mw8_r3u_tvFwkf5zuRuU2V_3Mp0Kp8N1u-njHKyfDD8SAUEGgM_UXj2V8qpq9WvgR9uuciLbXLeUSD011zmsgw9JBnOMBr6u6X9zzBBjWDB96ro5j44FigmcUjnjsgq19JaZNJ5v9mKuU2mdVrt1e5",
+            "width": 4032
+          },
+          {
+            "height": 3456,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101111785891879768713\">Stephen Rodas</a>"
+            ],
+            "photo_reference": "AUc7tXV67LLJdT6etu-J4TY3AkEzduKE74bmcoE7Lu9dLz1-Wv1Bn7wk26oBcXjK7jzrGJNR4NOVKEuN_2cvms5NlZvODHXGO4xmrK4yn9FnLnMVPdyBFAz9xvx1ABoXIt4mJHYVTAM30Xl5tbDfYFIoOr5yUQlDw7b3d-KZWCiN1na9g_KO",
+            "width": 4608
+          }
+        ],
+        "rating": 4.7,
+        "user_ratings_total": 6824,
+        "avg_time_to_spend": 60
+      },
+      {
+        "type": "TRAVEL",
+        "title": "Travel via walking",
+        "start_time": 18.746944444444445,
+        "end_time": 18.77277777777778,
+        "metadata": {
+          "walking": {
+            "time_required_mins": 1.55
+          },
+          "transit": {
+            "time_required_mins": 1.55
+          },
+          "driving": {
+            "time_required_mins": 0.33
+          }
+        },
+        "time_required_mins": 1.55
+      },
+      {
+        "title": "The Seattle Great Wheel Seattle, WA, USA",
+        "og_idx_int": 14,
+        "place_index": 14,
+        "travel_index": [
+          2,
+          14
+        ],
+        "duration": 15,
+        "travel_time_to_this_place": 3.45,
+        "operational_hours": {
+          "open_now": false,
+          "periods": [
+            {
+              "close": {
+                "date": "2024-07-14",
+                "day": 0,
+                "time": "2200"
+              },
+              "open": {
+                "date": "2024-07-14",
+                "day": 0,
+                "time": "1000"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-15",
+                "day": 1,
+                "time": "2200"
+              },
+              "open": {
+                "date": "2024-07-15",
+                "day": 1,
+                "time": "1000"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-16",
+                "day": 2,
+                "time": "2200"
+              },
+              "open": {
+                "date": "2024-07-16",
+                "day": 2,
+                "time": "1000"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-17",
+                "day": 3,
+                "time": "2200"
+              },
+              "open": {
+                "date": "2024-07-17",
+                "day": 3,
+                "time": "1000"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-11",
+                "day": 4,
+                "time": "1700"
+              },
+              "open": {
+                "date": "2024-07-11",
+                "day": 4,
+                "time": "0900"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-12",
+                "day": 5,
+                "time": "2300"
+              },
+              "open": {
+                "date": "2024-07-12",
+                "day": 5,
+                "time": "1000"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-13",
+                "day": 6,
+                "time": "2300"
+              },
+              "open": {
+                "date": "2024-07-13",
+                "day": 6,
+                "time": "1000"
+              }
+            }
+          ],
+          "weekday_text": [
+            "Monday: 10:00 AM – 10:00 PM",
+            "Tuesday: 10:00 AM – 10:00 PM",
+            "Wednesday: 10:00 AM – 10:00 PM",
+            "Thursday: 9:00 AM – 5:00 PM",
+            "Friday: 10:00 AM – 11:00 PM",
+            "Saturday: 10:00 AM – 11:00 PM",
+            "Sunday: 10:00 AM – 10:00 PM"
+          ]
+        },
+        "time_slot_to_visit": [
+          "15-18"
+        ],
+        "type": "ACTIVITY",
+        "start_time": 18.77,
+        "end_time": 19.02,
+        "current_opening_hours": {
+          "open_now": false,
+          "periods": [
+            {
+              "close": {
+                "date": "2024-07-14",
+                "day": 0,
+                "time": "2200"
+              },
+              "open": {
+                "date": "2024-07-14",
+                "day": 0,
+                "time": "1000"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-15",
+                "day": 1,
+                "time": "2200"
+              },
+              "open": {
+                "date": "2024-07-15",
+                "day": 1,
+                "time": "1000"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-16",
+                "day": 2,
+                "time": "2200"
+              },
+              "open": {
+                "date": "2024-07-16",
+                "day": 2,
+                "time": "1000"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-17",
+                "day": 3,
+                "time": "2200"
+              },
+              "open": {
+                "date": "2024-07-17",
+                "day": 3,
+                "time": "1000"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-11",
+                "day": 4,
+                "time": "1700"
+              },
+              "open": {
+                "date": "2024-07-11",
+                "day": 4,
+                "time": "0900"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-12",
+                "day": 5,
+                "time": "2300"
+              },
+              "open": {
+                "date": "2024-07-12",
+                "day": 5,
+                "time": "1000"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-13",
+                "day": 6,
+                "time": "2300"
+              },
+              "open": {
+                "date": "2024-07-13",
+                "day": 6,
+                "time": "1000"
+              }
+            }
+          ],
+          "weekday_text": [
+            "Monday: 10:00 AM – 10:00 PM",
+            "Tuesday: 10:00 AM – 10:00 PM",
+            "Wednesday: 10:00 AM – 10:00 PM",
+            "Thursday: 9:00 AM – 5:00 PM",
+            "Friday: 10:00 AM – 11:00 PM",
+            "Saturday: 10:00 AM – 11:00 PM",
+            "Sunday: 10:00 AM – 10:00 PM"
+          ]
+        },
+        "overview": "Giant Ferris wheel offering climate-controlled gondolas & a bird's-eye view of the city's landmarks.",
+        "geometry": {
+          "location": {
+            "lat": 47.6061342,
+            "lng": -122.3425246
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.6075434302915,
+              "lng": -122.3392249
+            },
+            "southwest": {
+              "lat": 47.6048454697085,
+              "lng": -122.3436245
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "photos": [
+          {
+            "height": 2560,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104261460955454537286\">Jaimin Brahmbhatt</a>"
+            ],
+            "photo_reference": "AUc7tXXL6JrfUEJ8vFXjyrd54-UMyGgkzTjms9HFOQgbEUaO9yCsSMhLtaiHbXxHdlJYO9i0lRhv7BUesVnG1pJImv08l3n5KokmwhQSLzCBCMsBFBC_KDtCPAKwbvNMpUQVZpflDbjNPJyCtjJ5Y4MmN0CAHFmPBibvmMCbCmfvu4wwA6AD",
+            "width": 3840
+          },
+          {
+            "height": 2016,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115671831713299756084\">Antonio Fernández</a>"
+            ],
+            "photo_reference": "AUc7tXXO8Dbu07QuvLY-2JWx1Y1Kp0rqg6qyZYlWye12pSqzB8wf90HUPvgIhOJOGCMljk0qkhUJfXH00Im_1fZfaVVNzlzvcr3kyvna2eN0GkebYQLFyLpDO68S7ajpY5DnM88asjoyeb8OHKEbZKxgy5-v0FqSM6SLUNmNn5TJh2-EcyKr",
+            "width": 1512
+          },
+          {
+            "height": 9000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104387178769154637953\">gojo</a>"
+            ],
+            "photo_reference": "AUc7tXWpc55JrRCCSkR2sdNy61iuKfDJK_tnH0NyR_Aw3gZP2-5LA6-kyM9jbGd6wKIJ1uImu8694LPglzBihcSz5wMwA1hCWSKBLJ2K5f6CjQVz8gVwAO1aMItG5Qp69frMi-eOpNDfTwdzaDeJu8SHn2pegjGALyK6Dal6hYgvX_XYr-FY",
+            "width": 12000
+          },
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109171376250323248539\">Hector R Santana Z</a>"
+            ],
+            "photo_reference": "AUc7tXWPEFHqRUz3jkD6mC3PFl7QKoSwrKabYh_MoyBnQ2gGQWH1tP4oCTg_DeKlSeIH_bKp7cFAiN6pbp73D1iI7O06RrVBIZwkUqPWSBRSxJvK8l9_dDQEwzV7-AdKZ24LJ83Wn2VBqGi8cXB_gLwtB_VhBPg_AFOTXlXiWsuUFvwx7Qen",
+            "width": 4032
+          },
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100388516380929958493\">Nicholas Bottone</a>"
+            ],
+            "photo_reference": "AUc7tXXsM9e7Zn_UH8M7bwmLlnB7wGol-oA8Sz6QaQ_cPlXe9xthCDu6n5ZtdvFmn7rFrusmuqJXThknYCceeQH_usCHGdaEJiYaVDFuZphYrvnVREtAAX4WdfHCe1WoLiRYK5VHEgsiJf86-QZrfHwEOA_CZxnAFfy5YjXY3NgBXNKmpgXS",
+            "width": 4032
+          },
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102687569993501634767\">Gregory Schmidt</a>"
+            ],
+            "photo_reference": "AUc7tXXcNTB67Ki1vVQUXGXX78JI4JQDT7_40Y71HHuikP13c2Z2v-rDTrpQ67oKzfwfNEie0-hQBx_qkz3NeS5XcxYLOWdhiB6IzpGNanhsFBlobdRanLgz5tGT2crKqh2hCjzxBPf5WNNBGw7SR2WKSOAnORujQKyGeEIOw0egz7ePhOvp",
+            "width": 3024
+          },
+          {
+            "height": 1188,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107823284385298630402\">Frank Steele</a>"
+            ],
+            "photo_reference": "AUc7tXUz31eYM-pyhRa-2ulSTOgmsLdjsXVpd4h8aBhGRDCwJJpT2Hbq10WhVheiXhv1O8P_1SOD_Z7Rl4CooSg7dfOXJZWed9mUBzjKBgson6Y0AA3WCQrDbplwi2WMLHg6Wx7aoDmQ_XOIEU51YPGjsTcvLIWu9YBmeYdwF0PU3OkxYTCp",
+            "width": 2112
+          },
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105199538319597719792\">Cirrus Sanofi</a>"
+            ],
+            "photo_reference": "AUc7tXUcZ0FzhhMilFoIEHIMvhLozC4W_z_Vnw-9JByDH0mz9nRih5g2jvS2UznQGTMthlIKMLrILQPElJ89kd7iuAts6ehgBBwXR97i6m9X4i17qar9saGEkUhLrDOG1GEXJu6OmE-k4qRNY_OFFAf_2jR2t0RL9PuhH80TM7XH0NfE3Y-t",
+            "width": 4032
+          },
+          {
+            "height": 1080,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106006786677183154168\">Karthick Ramani</a>"
+            ],
+            "photo_reference": "AUc7tXUqs0zEyjLIB-WHgR6a8uN6h61pwqJ4YzJDUMq2GTeCpGm5bzzCdjhS3Ul7hwHTgCtC0chZswsRKAHGtV2qR02B0PvlWkptEVgq97b2rylCmIiPTA8EFMZzZp70q_zRlY821ST1JpP56ac65mWj2x3o-JBlhLLdB2U6o1H8CHy6ftp_",
+            "width": 1920
+          },
+          {
+            "height": 4080,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106750999091349291057\">Christopher Thar</a>"
+            ],
+            "photo_reference": "AUc7tXVHYHwoQyOCHpU6ZU9kBP9-1lKKOhE9ux9Nn4Hbpj2mEv4SVG2VMzZAJU0lulSgJTbJxrodDhBSsavQEr_Qf4W0JbA4-_pTU5YWKNZwc-KCW1MfAg_UiLtpB6EDJ0B32ahiG33LucTO_5_f3RK-cTwF7gEHmK5K0Vnk_-4AIaWgiyrp",
+            "width": 3072
+          }
+        ],
+        "rating": 4.5,
+        "user_ratings_total": 9897,
+        "avg_time_to_spend": 15
+      }
+    ],
+    "Day 2": [
+      {
+        "title": "T-Mobile Park Seattle, WA, USA",
+        "og_idx_int": 5,
+        "place_index": 0,
+        "travel_index": [
+          -1,
+          -1
+        ],
+        "duration": 180,
+        "travel_time_to_this_place": 0,
+        "operational_hours": {
+          "open_now": false,
+          "periods": [
+            {
+              "close": {
+                "date": "2024-07-15",
+                "day": 1,
+                "time": "1730"
+              },
+              "open": {
+                "date": "2024-07-15",
+                "day": 1,
+                "time": "0830"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-16",
+                "day": 2,
+                "time": "1730"
+              },
+              "open": {
+                "date": "2024-07-16",
+                "day": 2,
+                "time": "0830"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-17",
+                "day": 3,
+                "time": "1730"
+              },
+              "open": {
+                "date": "2024-07-17",
+                "day": 3,
+                "time": "0830"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-11",
+                "day": 4,
+                "time": "1730"
+              },
+              "open": {
+                "date": "2024-07-11",
+                "day": 4,
+                "time": "0830"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-12",
+                "day": 5,
+                "time": "1730"
+              },
+              "open": {
+                "date": "2024-07-12",
+                "day": 5,
+                "time": "0830"
+              }
+            }
+          ],
+          "weekday_text": [
+            "Monday: 8:30 AM – 5:30 PM",
+            "Tuesday: 8:30 AM – 5:30 PM",
+            "Wednesday: 8:30 AM – 5:30 PM",
+            "Thursday: 8:30 AM – 5:30 PM",
+            "Friday: 8:30 AM – 5:30 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+          ]
+        },
+        "time_slot_to_visit": [
+          "15-18"
+        ],
+        "type": "ACTIVITY",
+        "start_time": 11.11,
+        "end_time": 14.11,
+        "current_opening_hours": {
+          "open_now": false,
+          "periods": [
+            {
+              "close": {
+                "date": "2024-07-15",
+                "day": 1,
+                "time": "1730"
+              },
+              "open": {
+                "date": "2024-07-15",
+                "day": 1,
+                "time": "0830"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-16",
+                "day": 2,
+                "time": "1730"
+              },
+              "open": {
+                "date": "2024-07-16",
+                "day": 2,
+                "time": "0830"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-17",
+                "day": 3,
+                "time": "1730"
+              },
+              "open": {
+                "date": "2024-07-17",
+                "day": 3,
+                "time": "0830"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-11",
+                "day": 4,
+                "time": "1730"
+              },
+              "open": {
+                "date": "2024-07-11",
+                "day": 4,
+                "time": "0830"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-12",
+                "day": 5,
+                "time": "1730"
+              },
+              "open": {
+                "date": "2024-07-12",
+                "day": 5,
+                "time": "0830"
+              }
+            }
+          ],
+          "weekday_text": [
+            "Monday: 8:30 AM – 5:30 PM",
+            "Tuesday: 8:30 AM – 5:30 PM",
+            "Wednesday: 8:30 AM – 5:30 PM",
+            "Thursday: 8:30 AM – 5:30 PM",
+            "Friday: 8:30 AM – 5:30 PM",
+            "Saturday: Closed",
+            "Sunday: Closed"
+          ]
+        },
+        "overview": "Seattle Mariners' ballpark with city skyline views, lots of stadium eats & a retractable roof.",
+        "geometry": {
+          "location": {
+            "lat": 47.5914258,
+            "lng": -122.3324351
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.59341575,
+              "lng": -122.33153765
+            },
+            "southwest": {
+              "lat": 47.58940995,
+              "lng": -122.33512745
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/stadium-71.png",
+        "photos": [
+          {
+            "height": 540,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104983713570775077760\">Safeco Field</a>"
+            ],
+            "photo_reference": "AUc7tXVIoahEOzPk4oVEdUjvBSCD4TxrbSvxeOZC4XS79fLCc40x1y0grn2qVhArY0tirOlCr5MqyQZB_dDJ7vWqK60UBDgAFqgkuVriMTwubbYCtc87f3MbFyljGFlJSgvugXSVoJmLWxJVQJm24V5t4K-IqwyaHMKIPC4EWSwUNqWb2_zC",
+            "width": 1242
+          },
+          {
+            "height": 2905,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108219345275294073562\">Lin Chen</a>"
+            ],
+            "photo_reference": "AUc7tXXDN9PcG6prIOBXX7rZYWb5YRtVZbEGaxvzcvaKp6IAIJbCo7jjY0CuYMk2zWo5ePtyM-s2oHzON4XRrb1NkhV6-nVxRD62aWltuBZVP5k7TDk13r7q280_n4Aj2YIy3Idbv_u69bL5Y9xKRSZNA6YwAnaIzzQTzY1mof5pKiz2I87H",
+            "width": 3870
+          },
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103988441101929616378\">Hank Hays</a>"
+            ],
+            "photo_reference": "AUc7tXUOSJPj4Cbv1Z9uGazoPlnGal9P_i4-8vU0p4gRvA9YZxCXc0fFbPOMTHUXCDFfFRobe2VRo4HjZAS8WcV_HdYweoxa5Kdq_C4_-SC8Fr-MLT88vl0YBWjqELS_P7sj-cVhbTNgUxXTUlMWTLPzMES4NpBSfXv6xqZ47eb42SjAtl-E",
+            "width": 4032
+          },
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/102725683540439634249\">Cara Maddux</a>"
+            ],
+            "photo_reference": "AUc7tXW2avnPTR_ZSKiyGU8_tz4qtUWmqtWWi3-NLqYDfTsZXBOF_U3thoSmhJ1dNFE833-Ksxh7VDgRwANvVIdGtaZ9Bt3UoZrjdO12jWiXlBs2JmzNV1LpDYqe0Hs-wytKJK5BRPyQKc5b9sc8IBZ3e1taneoikoogo4KG6yfcrMvbPQ5M",
+            "width": 4032
+          },
+          {
+            "height": 3292,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111359124546299781892\">Craig Smith</a>"
+            ],
+            "photo_reference": "AUc7tXUGSUvnpLptmnOODkxJ5FWkTuh4M4Q9Bo_gXGc8h-qPLNSvVpccuy8IeFInquQVARl61IYmrPaEojba9RSMG5pj5NyKlXyFIIs8ec2LcXxoH_14hnx4t5KUn5MrerCkjglTE3afK1kKvV7_cs3d6kw8uXhqnzBas2Bh0A0YrVTELdPT",
+            "width": 6169
+          },
+          {
+            "height": 3468,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111195806310618242388\">2 COLD BEV ZOM SQUAD</a>"
+            ],
+            "photo_reference": "AUc7tXVtDveYULxYMhCkhaf4nQpsq1I78hNVrnhT5GAG2QV-U_YxCDlCyBYnLM89h5ugtxlaNRL_rHd6ckYR_NRoLLWn49vQkPJZlPz1dbJHp_T_7lIUxjfnrz84a9XLfuQVchCcXRnkkP6Z8hXqRp6DQM9_A5xOx8vMNEzp0MDMa_7GRJ7P",
+            "width": 4624
+          },
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112988119925162711788\">Aidan Marcuss</a>"
+            ],
+            "photo_reference": "AUc7tXXrRpGNaqRdERMZL2VYSmr5po0_OwTEJCKp4SyU_CEf0-ICi629gsu64wr-xht3vWHk2fg4Bl19zfX42keZlclo_ykwQVBYXLnZArLEOJmItCxXKWhSP-pw1ssZjDFhIwLp5Sebco8dPdS3Wc9zexYmrUOgHwEo5JMcjT3mf4gUlkIU",
+            "width": 4032
+          },
+          {
+            "height": 1536,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112585628410210095747\">Shawn Pahl</a>"
+            ],
+            "photo_reference": "AUc7tXUehtZgfizMv3xkOtyB8EbcEpRzO4hNWgsFVdh017-hMAVo7ISVXBeVQZGRLqTR0M2Bo43ANRXbqZzbx-0dClEPFWvh7arKTJWc14rke7BPIR05zCctZA8FHiHC_4sSnlGGyJ9x9OvnrTR6RSOSSjrAC89T1wGwntJIKRyRB57fh8vO",
+            "width": 2048
+          },
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103195839856539358808\">Peter Erickson</a>"
+            ],
+            "photo_reference": "AUc7tXXxmedl_zIbvHhkFN0C6poBh7avkkOkUlbL9JN_z3jlpBVWhG5ulqoHu3WD_RSsoTl-9MhTGn-2GelpGM10P0oLaZxODNXDTjriigvXqP6Q1OZ7hl4hfaQQ2iQBr7fXKixcon26me1YisPIr66ldVnx_0uwyNqLRFIL5G_I7tv--9hA",
+            "width": 4032
+          },
+          {
+            "height": 4080,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106265827376353320725\">James Rudd</a>"
+            ],
+            "photo_reference": "AUc7tXX_2bVy4jiAYL99YYvGGw3rSUrc6lq-2xUrbCTLzKOFSaMlcEswNftknlQeoLeIxXV1og8MkxoyL4ifs3iQKkKn4g5iAiJDw2SqPNMd99rFmkwCcrTmiklEm7TZ2azczZtEWCIO8zW__2QwldVXjDj4W2k-S-xjjg_00qogn32dpD-n",
+            "width": 3072
+          }
+        ],
+        "rating": 4.7,
+        "user_ratings_total": 21088,
+        "avg_time_to_spend": 180
+      },
+      {
+        "type": "TRAVEL",
+        "title": "Travel via driving",
+        "start_time": 14.11,
+        "end_time": 14.29,
+        "metadata": {
+          "walking": {
+            "time_required_mins": 126.28
+          },
+          "transit": {
+            "time_required_mins": 36.73
+          },
+          "driving": {
+            "time_required_mins": 11.17
+          }
+        }
+      },
+      {
+        "title": "Kubota Garden Seattle, WA, USA",
+        "og_idx_int": 27,
+        "place_index": 22,
+        "travel_index": [
+          14,
+          22
+        ],
+        "duration": 60,
+        "travel_time_to_this_place": 0.3333333333333333,
+        "operational_hours": null,
+        "time_slot_to_visit": [
+          "9-15"
+        ],
+        "start_time": 14.29,
+        "end_time": 15.29,
+        "current_opening_hours": null,
+        "overview": "Hilly 20-acre Japanese-style garden dating to 1927, with flowers, ponds, waterfalls & a moon bridge.",
+        "geometry": {
+          "location": {
+            "lat": 47.5133132,
+            "lng": -122.2664458
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.5146599802915,
+              "lng": -122.26383745
+            },
+            "southwest": {
+              "lat": 47.51196201970851,
+              "lng": -122.26731525
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+        "photos": [
+          {
+            "height": 3456,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115851771455007434826\">Philip Coakes</a>"
+            ],
+            "photo_reference": "AUc7tXXufDOoCpRNrhfk14dW7lcLkQ5w56uc4qigPIdQSXoFTM4ZsRwNiyOcvuid8zLxtIbIt1BWKugIGc--Mvafrnnj62ILZIk3vneqTvWI_y0tbpwVxlj7aAEbheef5Gej9chgvvbPlprtRCSL05XwqmHZJLAGm7rVpq-xuKViITo_CR0e",
+            "width": 4608
+          },
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117111590123806767596\">deb jack (DJ)</a>"
+            ],
+            "photo_reference": "AUc7tXUq7j4o_0Gbw7AgwhCalod1RkNDyXdNxcwJVz_tJwBVDoMctdxwfb50Pq7O5PBk2rkMSeHy5DQLg8YP9VIjZas7gjaisCod9SkYgJ3jbsFW02VFgCszwI5-x779zmpocULWNwfZWOkmGokfUzXxCk6T7aSll70DkjnKQQBJ_isM7Wfq",
+            "width": 3024
+          },
+          {
+            "height": 3456,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104077685157279375961\">Rahul Nair</a>"
+            ],
+            "photo_reference": "AUc7tXXkz_ozmidq0B4KYA8ghjXHSoNONRjiHsK_POWMh_r4JJiSMIFcgg3yI_1EROWAvojUTFwJbRmuSf5rVl6Whpp7QaUof8oTZ_I_hqRXzeIL_zSiCumUYWW0RVma5u1vuqVIRsotvFS0ETb6dxrYW5fF9bGHb1N57oUtCQMHZf4rbJiA",
+            "width": 4608
+          },
+          {
+            "height": 5504,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107426629671058784914\">Tinfuk Tsoi</a>"
+            ],
+            "photo_reference": "AUc7tXVRB9Fk7QLrh3YH0SS_fVfcr2qTB3b6iIvzjsZ4DwNQlmIeiR3QzlHQTz0O1x6MP__nfPyAqM7ga2MQBDcmT6Rd-vEDhrqFYKDLnxeyevk37kwYlHsWYXJNFGMAuCRNYv7_8SkVd_j6SKEQpiDDhuID6oIhTUp-OHWUG0WaQkHsqeqJ",
+            "width": 8256
+          },
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108508434595518164508\">dustin Chu</a>"
+            ],
+            "photo_reference": "AUc7tXUhiA2lcPL5PD7H2g1-1GElYDtnPufECxxFu4xkTNIYe_FkMIVCOZaGyiebf7nhIkfNRejdLNyzB2JPvPCKl3eRJ8W4qGEJvPNkwcHK_qN5xjw_I3k0n-mY9uRc245vqIWaa-7wtLVqRVI2udV9WBeQd1h3Igbx0eokavXgo9Biucqs",
+            "width": 3024
+          },
+          {
+            "height": 4000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117384346997486211550\">Romeo Garcia</a>"
+            ],
+            "photo_reference": "AUc7tXWgOPwJTpOFzrVAl8VlS6qUbRs3RNG8Gd1P-AQo0T6jTAV6Q43DojAHYVOUG87RqfCyO3LtcGR2opLgFZ4OiDhrOTewuOBDqwlyBzFtHzdWdxF_eNPr48I0CWG5fKTFzjNLS0cd9TTqLLA08DCFW7oBxwx0R-mj4RKgjCxN1OFs9Pkf",
+            "width": 3000
+          },
+          {
+            "height": 3468,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114059344746033787630\">Thor Conner</a>"
+            ],
+            "photo_reference": "AUc7tXX2d4hDWaTijFmpQQMLWofPw9hWrgt03-EXothZtGcoFc6DRMmVmejosaopxhdua_SaxN7izxzmRx2H0rBnt58M6-8gvotlS0YavHUkAipskXLBadhO2MZmSgWNpW2qy22yrTF706NcsCAx8iUCMPv0XA7COvBqkrfqJlM4G2_yNL1k",
+            "width": 4624
+          },
+          {
+            "height": 3456,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115851771455007434826\">Philip Coakes</a>"
+            ],
+            "photo_reference": "AUc7tXUaA-P-J1kf3xmisqF6QlswtfWUq88PenpFBwuGNC3JixVt7Z4cAQpR8bU2VTIw3Sd4w8FcB4sW1tj_x09-fH31nAblZgGJod7hEfQnzoci4dyaGs6LgrnoAMn4i7sv_V-XNYOTgJ2qi5QCwRfLHlykTTkm8kALAzDiNr-loXTefl_c",
+            "width": 4608
+          },
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116489455172038345682\">Avinash Kodakandla</a>"
+            ],
+            "photo_reference": "AUc7tXXoTavhX59xEEsOg5CyB7refiK1oKMtxn0IZImURgB8ZCiRFS1sMa_Wm3-id1VRLvHaJDhM-6IDLf80_YoZ_2tN6cu-3YSjGWIlECHiv07MOal7heTQnTXLx2xfsmPj9NT-WesKm51ui4LG_cFrD2VtVunuVIE-9Jmk5lJNecBGHaZU",
+            "width": 3024
+          },
+          {
+            "height": 4080,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104992016815910616585\">Bryan Hilbert</a>"
+            ],
+            "photo_reference": "AUc7tXUmXjzQZtIsfnpUXFO2I-NGFZW2ZfIMIq9UdgRJuZUip6fKhHvURhOO51Z4_bVbBsJujFR2gBeg4o-v0dwBL2LwXJT5TFLi1-fwOZ2RqIDZWIpurGe2xzTZ_aAIX2h6FotAsFPaQBSUBDA3_KVj6MEPx5n3kpEMCSdy_PgvsFDs9U3j",
+            "width": 3072
+          }
+        ],
+        "rating": 4.7,
+        "user_ratings_total": 4696,
+        "avg_time_to_spend": 60
+      },
+      {
+        "type": "TRAVEL",
+        "title": "Travel via walking",
+        "start_time": 15.293055555555556,
+        "end_time": 15.293055555555556,
+        "metadata": {
+          "walking": {
+            "time_required_mins": 0
+          },
+          "transit": {
+            "time_required_mins": 10000000
+          },
+          "driving": {
+            "time_required_mins": 0
+          }
+        },
+        "time_required_mins": 0
+      },
+      {
+        "title": "Snoqualmie Falls Seattle, WA, USA",
+        "og_idx_int": 18,
+        "place_index": 14,
+        "travel_index": [
+          5,
+          14
+        ],
+        "duration": 60,
+        "travel_time_to_this_place": 6.416666666666667,
+        "operational_hours": {
+          "open_now": true,
+          "periods": [
+            {
+              "close": {
+                "date": "2024-07-17",
+                "day": 3,
+                "time": "2359",
+                "truncated": true
+              },
+              "open": {
+                "date": "2024-07-11",
+                "day": 4,
+                "time": "0000",
+                "truncated": true
+              }
+            }
+          ],
+          "weekday_text": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+          ]
+        },
+        "time_slot_to_visit": [
+          "15-18"
+        ],
+        "start_time": 15.29,
+        "end_time": 16.29,
+        "current_opening_hours": {
+          "open_now": true,
+          "periods": [
+            {
+              "close": {
+                "date": "2024-07-17",
+                "day": 3,
+                "time": "2359",
+                "truncated": true
+              },
+              "open": {
+                "date": "2024-07-11",
+                "day": 4,
+                "time": "0000",
+                "truncated": true
+              }
+            }
+          ],
+          "weekday_text": [
+            "Monday: Open 24 hours",
+            "Tuesday: Open 24 hours",
+            "Wednesday: Open 24 hours",
+            "Thursday: Open 24 hours",
+            "Friday: Open 24 hours",
+            "Saturday: Open 24 hours",
+            "Sunday: Open 24 hours"
+          ]
+        },
+        "overview": "Famous 270-foot falls drawing crowds with its picturesque views, plus a park & gift shop up top.",
+        "geometry": {
+          "location": {
+            "lat": 47.54186300000001,
+            "lng": -121.8372937
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.5430854802915,
+              "lng": -121.8356623697085
+            },
+            "southwest": {
+              "lat": 47.5403875197085,
+              "lng": -121.8383603302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "photos": [
+          {
+            "height": 1362,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115306295905460595352\">Snoqualmie Falls</a>"
+            ],
+            "photo_reference": "AUc7tXXQykOBdJokgL5ygCC5gaWNZaFJy3XqbWqxUAZ_yuPGiBvL6_WJ8PYFuxhqjeJhMgQta1_VsNiSgE5dZ-xNf0lLnrVYIYeuo_RLrMlpHnnuzV_m52raWKEmkDOUm1sJ-aikJ29bA8wR48T4_BEHC2uR_oA-gsIbl86hWBeTUpHUqPpX",
+            "width": 2048
+          },
+          {
+            "height": 9000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108023021593180216135\">Will Roberts</a>"
+            ],
+            "photo_reference": "AUc7tXWRSbCGdaUwDaz3ZEYcGMp2tOLRhhwoMUGgufdudRenVLGyXzNsTrTv_o180fImwvfCMB3rcboyaDhoC2UOChHdyTzofY8ebgFPSnzmLbA-FSmrcbvm3uTaVo19vHMw2gp2w9NF2VncHpXPdTSNJAHpp9nXSIR-WypvnksBmzsOkqjl",
+            "width": 12000
+          },
+          {
+            "height": 3072,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108563180110974624309\">Andrew Bachmann</a>"
+            ],
+            "photo_reference": "AUc7tXU7HSfrfKcVyyXOcngEbEPwGvMCL_D3vbo7UW4YjcXoYZwA7_Au3IV9O-KA9x-GtuU6gmRuFSaDbxSYWrIgqY5R0BoQl-PIeYMa5AlXVpzPtdSAETL96wcxOCoI7YRtVTBeMQ0rOazj57q8Bb3syrVDhpMzBENd3DWrSua35jSPt3ZJ",
+            "width": 4080
+          },
+          {
+            "height": 2448,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103261352588659652212\">Andrew Mendez</a>"
+            ],
+            "photo_reference": "AUc7tXU7YNBOrBV_EvvlqTulnRBW0Ej9MAjbo88I-0fio9dxE9aSOEp6QyKCeL7ushW_yUcamS5J_Z1b1rkhRZg9-d-Z0mUf2kJoeVE7HQKDjbZ1MQLPMhVVFxCnSaPZfTd6aGZxX-I1BaOFd89FbqVQSN8hmsHZW-XB9ZM63jGwUe5W_JWr",
+            "width": 3696
+          },
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110568570653181972118\">akshata desai</a>"
+            ],
+            "photo_reference": "AUc7tXU5rb1iK4uDwC-_rIeEQCgmS8i33gaLb7rNLiwG0prtzY8n_j2xiOCI9vYQnRVy3IISxUXUW_fz7458TUCCVWixUAlEL7aq8CCUNe1OSyHqVYV1qxpLTByaGMUBDle4XyFsGYlQObjZHgPWUBUE-j5o3kLrIGfYmWP3-sam7Sn92sHd",
+            "width": 3024
+          },
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117926378782661811063\">Anup Harbade</a>"
+            ],
+            "photo_reference": "AUc7tXUVs4k0mezr5pqfr3j7sR3j6TPdyKskGZXpmqYsyZv-4XOr-6iDw9nKFNnmu3sZTPqfq03kYjxbFA4oirLsLmCyHc9AP7_m-KrW4Zo4s8Aas9FWWXiAfCJFXAfNlzlu6mFIPFM07f6QDi7VHWA-A4lFNkyi63lhGNg4szZzowaApg4x",
+            "width": 4032
+          },
+          {
+            "height": 2992,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101286095957980100469\">Tania Vidal</a>"
+            ],
+            "photo_reference": "AUc7tXX-3SsDHHb0JWWH4I7KJZIpwks0BQdONsRPe7Vt9GGqXk9tJNoLWQeWIrAk-RUn6HlwuS3fZ--QDuG59qd20FeQ2El0VKxE8A5SIak8zoYE4RPzcp4CorUsf0ml1HLIEPMm0EyWwwdj-GxS11wG0BzcGlwywxA3ti9oFV9nPi2e2yMP",
+            "width": 2992
+          },
+          {
+            "height": 12000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/109795863406882517271\">Lauren Ditty</a>"
+            ],
+            "photo_reference": "AUc7tXUfiMS1aHBJOcLwIIbMtYnEGxFkTupGJLC0UsRbeM8phjjUGjIPteDUc3VLSmOyoYTPuOsuauRi06LPek7L0rK-OXAmr6PKejhIGlJxHcZuOe84NKTNTP4ccjji2jRkmtzpBcArP5nTPT__ZspHgYxDW-4LNnSK8nE3sdCkmnTureAy",
+            "width": 9000
+          },
+          {
+            "height": 2160,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113926215664675223455\">Juliana Chan</a>"
+            ],
+            "photo_reference": "AUc7tXWxmTBjDj8Ey98kPAfSBJnf9I5x2c_U5eH2xHW_HWVH-SexRSvxRPpshuYM-fc-fKVmtHb0unHV50UAHXgohitCdGsw5DjNf-h75GDj5F4Iit7YOt9PtZxuuM0OGQeH0cifn1POTvvPkkmRxrNP6qwsKuv4drIAnbmTehqJ7qMN-10G",
+            "width": 2160
+          },
+          {
+            "height": 4000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107692160241186535272\">Jason Kaw</a>"
+            ],
+            "photo_reference": "AUc7tXWoI1q9W5DuKFQPuGGsiNJl70dudN1HK64B7JEi2OTd_aDurcUzkMVEepkzZYYhHXALymwI21vzOkm58Iz33YsoQG250peL0L1UrU4rBwp_y_6xWoRYWSvUm5_9u_0BV0DXA0MDE-VzXAD7SORsvZfLaZsFFx8XQrnc6xWYU-EC6E9L",
+            "width": 3000
+          }
+        ],
+        "rating": 4.8,
+        "user_ratings_total": 5777,
+        "avg_time_to_spend": 60
+      },
+      {
+        "type": "TRAVEL",
+        "title": "Travel via walking",
+        "start_time": 16.293055555555554,
+        "end_time": 16.293055555555554,
+        "metadata": {
+          "walking": {
+            "time_required_mins": 0
+          },
+          "transit": {
+            "time_required_mins": 10000000
+          },
+          "driving": {
+            "time_required_mins": 0
+          }
+        },
+        "time_required_mins": 0
+      },
+      {
+        "title": "Washington Park Arboretum Seattle, WA, USA",
+        "og_idx_int": 7,
+        "place_index": 2,
+        "travel_index": [
+          1,
+          2
+        ],
+        "duration": 120,
+        "travel_time_to_this_place": 6.75,
+        "operational_hours": {
+          "open_now": true,
+          "periods": [
+            {
+              "close": {
+                "date": "2024-08-11",
+                "day": 0,
+                "time": "2000"
+              },
+              "open": {
+                "date": "2024-08-11",
+                "day": 0,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-08-12",
+                "day": 1,
+                "time": "2000"
+              },
+              "open": {
+                "date": "2024-08-12",
+                "day": 1,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-08-13",
+                "day": 2,
+                "time": "2000"
+              },
+              "open": {
+                "date": "2024-08-13",
+                "day": 2,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-08-14",
+                "day": 3,
+                "time": "2000"
+              },
+              "open": {
+                "date": "2024-08-14",
+                "day": 3,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-08-15",
+                "day": 4,
+                "time": "2000"
+              },
+              "open": {
+                "date": "2024-08-15",
+                "day": 4,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-08-09",
+                "day": 5,
+                "time": "2000"
+              },
+              "open": {
+                "date": "2024-08-09",
+                "day": 5,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-08-10",
+                "day": 6,
+                "time": "2000"
+              },
+              "open": {
+                "date": "2024-08-10",
+                "day": 6,
+                "time": "0800"
+              }
+            }
+          ],
+          "weekday_text": [
+            "Monday: 8:00 AM – 8:00 PM",
+            "Tuesday: 8:00 AM – 8:00 PM",
+            "Wednesday: 8:00 AM – 8:00 PM",
+            "Thursday: 8:00 AM – 8:00 PM",
+            "Friday: 8:00 AM – 8:00 PM",
+            "Saturday: 8:00 AM – 8:00 PM",
+            "Sunday: 8:00 AM – 8:00 PM"
+          ]
+        },
+        "time_slot_to_visit": [
+          "9-15"
+        ],
+        "start_time": 16.29,
+        "end_time": 18.29,
+        "current_opening_hours": {
+          "open_now": true,
+          "periods": [
+            {
+              "close": {
+                "date": "2024-08-11",
+                "day": 0,
+                "time": "2000"
+              },
+              "open": {
+                "date": "2024-08-11",
+                "day": 0,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-08-12",
+                "day": 1,
+                "time": "2000"
+              },
+              "open": {
+                "date": "2024-08-12",
+                "day": 1,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-08-13",
+                "day": 2,
+                "time": "2000"
+              },
+              "open": {
+                "date": "2024-08-13",
+                "day": 2,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-08-14",
+                "day": 3,
+                "time": "2000"
+              },
+              "open": {
+                "date": "2024-08-14",
+                "day": 3,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-08-15",
+                "day": 4,
+                "time": "2000"
+              },
+              "open": {
+                "date": "2024-08-15",
+                "day": 4,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-08-09",
+                "day": 5,
+                "time": "2000"
+              },
+              "open": {
+                "date": "2024-08-09",
+                "day": 5,
+                "time": "0800"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-08-10",
+                "day": 6,
+                "time": "2000"
+              },
+              "open": {
+                "date": "2024-08-10",
+                "day": 6,
+                "time": "0800"
+              }
+            }
+          ],
+          "weekday_text": [
+            "Monday: 8:00 AM – 8:00 PM",
+            "Tuesday: 8:00 AM – 8:00 PM",
+            "Wednesday: 8:00 AM – 8:00 PM",
+            "Thursday: 8:00 AM – 8:00 PM",
+            "Friday: 8:00 AM – 8:00 PM",
+            "Saturday: 8:00 AM – 8:00 PM",
+            "Sunday: 8:00 AM – 8:00 PM"
+          ]
+        },
+        "overview": "On the shores of Lake Washington, this 230-acre preserve features rare trees & a Japanese garden.",
+        "geometry": {
+          "location": {
+            "lat": 47.6364162,
+            "lng": -122.2958146
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.6490134,
+              "lng": -122.27864185
+            },
+            "southwest": {
+              "lat": 47.617241,
+              "lng": -122.30579365
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+        "photos": [
+          {
+            "height": 3000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100202445106518551090\">Yessika Pantoja</a>"
+            ],
+            "photo_reference": "AelY_Csgsui1iaixusW0OtXIibevNQ-NdcU59AI347ccOdSQ7ujnS42J10PlvrDT2Do5YQH6pMyCIiysuYfDG6MRh3auK-SWgi0M02d56T4dLQxXDQxNuRRKTV39Ix6NtfPgEDJvcyJRRZX6dmatFYHaGFf-AJ3VuC8ZVS9aRvTgkjlbRrOc",
+            "width": 4000
+          },
+          {
+            "height": 4000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113234599038971295960\">Jeff Yuan</a>"
+            ],
+            "photo_reference": "AelY_CvotS_cvnaD_ZDcz_x3ZfkX57nW5GVIId6lv9-gaa1E7IgTLv6D5D04mWFOPZJQyLg2CLxe2ZrFiip2fYa7bljadF-lJ2ahS4ub89ZSri0VEwSP0Byr-w_yid1VTBCoDNTzb965T-vhc_XPqR3nWUhwWAPyjPmtB-m4wwd8Ft9q1fBm",
+            "width": 6000
+          },
+          {
+            "height": 3000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115275768465720908972\">Marie Tecson</a>"
+            ],
+            "photo_reference": "AelY_Cui5TSacyehUqoO9qiSmZ8v1XDs7ncNnb5yKnDUi7fcxGVdG9ykUVXBvLn4tso_F-YpEb53nJn9fACqeTHbsWZ-40wSTBUfTW_u8ur0XqioFkR1ztsWALcX34cZSqPFQnYdunl2-0ZB6S-qC6Ds-6lIUZ8MDfbupeXHcRB8izZQv4gJ",
+            "width": 4000
+          },
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117279142197408021474\">Jeremy Hook</a>"
+            ],
+            "photo_reference": "AelY_CsqqRhqdlsUAu7-UCx2fOJoHmebu22pMUIF33QMVHbQMO_Kvv4F5IhAV0eb7yHNyZaBmE7yvSatFYfzgshhWS6-lf8TRIElBQTgnSNE-YeVsNzk2CuWEhwqmbANuVOJWSC2yy-TPigW7JEGesyNhLQPyKrjwA01s6QwS2RGEBo0JPwi",
+            "width": 3024
+          },
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103882884494654093940\">Nikita R.</a>"
+            ],
+            "photo_reference": "AelY_CtP1WAlpRVQ0QBR8PtlV-Xpfy6djwdTJSldZlFIUG-9CjjMjQuRxHngbodx9UKHe9RAxjT-fUMEjYDnTMMqiYnbQuERzCuma4M1H4Osk-8QHFfD_vNIh73awrPiXF-axsY7jtgH6TgqMTnYpONLn0n8huPOF7umh48eGNei2n7dTaKZ",
+            "width": 4032
+          },
+          {
+            "height": 4000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110664969623136904334\">Miguel Angel Falcon</a>"
+            ],
+            "photo_reference": "AelY_Cvf9LR5YVQbYAqEDV93pZwKz77BtmHyW7HJAoTyMheQcOm4zshhMbs2DwCTE84JZwmXrde9ize1OqH6izeUm8ze9kYIfTsgv7_9Zyo_XqCE63N_Y1eiHPAnkO8NubCOM7e8BmIru2GzToFVTujYvbQBQ1-vcsYd0VEDKJ8Pi56Cid6g",
+            "width": 3000
+          },
+          {
+            "height": 3072,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111050062652114907275\">Ry Rob</a>"
+            ],
+            "photo_reference": "AelY_Ct8ehvBz-PpAxiwne_KAalXMWfnSBI8uwkUUzfPw-CquUCNMXrYlZ1exuKVDkRh36zTN2tM4y3v2VZkHOc-AgDzi810wX0_z5ZneaxTf2XJpG-yx41tC0ljgqfmOU61z5h5boIKX7veqIijx-4680lwmugHDcwx3O5hZWlfhk2wOXhr",
+            "width": 4080
+          },
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112627872001737980528\">Peter Voeller</a>"
+            ],
+            "photo_reference": "AelY_CvyKsubl6FP8zNvrp2_7grh03aGREi-t4VZ2mfc02hkBaPW3Qsziq1yb4-wW7gK68KUV9Kyae0dxCfXAOjcVEwn3FDbdN5VK4xzmP3jcEdgoYmKxAvDPJ2SRtvqiG1NftHeptU4k54CVsb1o5stJ4HJxT7baPhngSgf0i4sWx6YAdtQ",
+            "width": 4032
+          },
+          {
+            "height": 3072,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/100423617290513017832\">Dionysius Dumas</a>"
+            ],
+            "photo_reference": "AelY_CsvVm-rlS0eor1_sUY4Jj9bqrU22A7Cp9B8a894Lfb7L7griL5vGNNG1pvFNf48LLuu59ZH5WeBRi_0H-9p2xEHKEdIO_AE9QnbKuH69_71vNDZLIlXR59gcFtYFqPHgVQJrvh2a28hvkpCGOGn7DmPIY3ebuN2n77nqGVZ0yHqj0pp",
+            "width": 4080
+          },
+          {
+            "height": 4000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115051347358354543244\">Béla Lindtner</a>"
+            ],
+            "photo_reference": "AelY_CsaIFOu5_kl5o4b_DLuw1TTRoqO82vdmRIS9M0zpprPSH5XL_e02j2QoNygS4M6M0F9Cqg2Qx5tJh1TP0WUHzSx_Q9_3mVs5rLeWBsa7dNJJMV0ubgXGDaH2tNIszeGuni2ciYjcff6yupryLAjM79gMx5VL1FMe4RHzbPSEvBwmprC",
+            "width": 6000
+          }
+        ],
+        "rating": 4.8,
+        "user_ratings_total": 7420,
+        "avg_time_to_spend": 120
+      },
+      {
+        "type": "TRAVEL",
+        "title": "Travel via walking",
+        "start_time": 18.293055555555554,
+        "end_time": 18.293055555555554,
+        "metadata": {
+          "walking": {
+            "time_required_mins": 0
+          },
+          "transit": {
+            "time_required_mins": 10000000
+          },
+          "driving": {
+            "time_required_mins": 0
+          }
+        },
+        "time_required_mins": 0
+      },
+      {
+        "title": "Discovery Park Seattle, WA, USA",
+        "og_idx_int": 6,
+        "place_index": 1,
+        "travel_index": [
+          0,
+          1
+        ],
+        "duration": 180,
+        "travel_time_to_this_place": 0.8,
+        "operational_hours": {
+          "open_now": true,
+          "periods": [
+            {
+              "close": {
+                "date": "2024-07-14",
+                "day": 0,
+                "time": "2330"
+              },
+              "open": {
+                "date": "2024-07-14",
+                "day": 0,
+                "time": "0400"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-15",
+                "day": 1,
+                "time": "2330"
+              },
+              "open": {
+                "date": "2024-07-15",
+                "day": 1,
+                "time": "0400"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-16",
+                "day": 2,
+                "time": "2330"
+              },
+              "open": {
+                "date": "2024-07-16",
+                "day": 2,
+                "time": "0400"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-17",
+                "day": 3,
+                "time": "2330"
+              },
+              "open": {
+                "date": "2024-07-17",
+                "day": 3,
+                "time": "0400"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-11",
+                "day": 4,
+                "time": "2330"
+              },
+              "open": {
+                "date": "2024-07-11",
+                "day": 4,
+                "time": "0400"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-12",
+                "day": 5,
+                "time": "2330"
+              },
+              "open": {
+                "date": "2024-07-12",
+                "day": 5,
+                "time": "0400"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-13",
+                "day": 6,
+                "time": "2330"
+              },
+              "open": {
+                "date": "2024-07-13",
+                "day": 6,
+                "time": "0400"
+              }
+            }
+          ],
+          "weekday_text": [
+            "Monday: 4:00 AM – 11:30 PM",
+            "Tuesday: 4:00 AM – 11:30 PM",
+            "Wednesday: 4:00 AM – 11:30 PM",
+            "Thursday: 4:00 AM – 11:30 PM",
+            "Friday: 4:00 AM – 11:30 PM",
+            "Saturday: 4:00 AM – 11:30 PM",
+            "Sunday: 4:00 AM – 11:30 PM"
+          ]
+        },
+        "time_slot_to_visit": [
+          "9-15"
+        ],
+        "start_time": 18.29,
+        "end_time": 21.29,
+        "current_opening_hours": {
+          "open_now": true,
+          "periods": [
+            {
+              "close": {
+                "date": "2024-07-14",
+                "day": 0,
+                "time": "2330"
+              },
+              "open": {
+                "date": "2024-07-14",
+                "day": 0,
+                "time": "0400"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-15",
+                "day": 1,
+                "time": "2330"
+              },
+              "open": {
+                "date": "2024-07-15",
+                "day": 1,
+                "time": "0400"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-16",
+                "day": 2,
+                "time": "2330"
+              },
+              "open": {
+                "date": "2024-07-16",
+                "day": 2,
+                "time": "0400"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-17",
+                "day": 3,
+                "time": "2330"
+              },
+              "open": {
+                "date": "2024-07-17",
+                "day": 3,
+                "time": "0400"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-11",
+                "day": 4,
+                "time": "2330"
+              },
+              "open": {
+                "date": "2024-07-11",
+                "day": 4,
+                "time": "0400"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-12",
+                "day": 5,
+                "time": "2330"
+              },
+              "open": {
+                "date": "2024-07-12",
+                "day": 5,
+                "time": "0400"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-13",
+                "day": 6,
+                "time": "2330"
+              },
+              "open": {
+                "date": "2024-07-13",
+                "day": 6,
+                "time": "0400"
+              }
+            }
+          ],
+          "weekday_text": [
+            "Monday: 4:00 AM – 11:30 PM",
+            "Tuesday: 4:00 AM – 11:30 PM",
+            "Wednesday: 4:00 AM – 11:30 PM",
+            "Thursday: 4:00 AM – 11:30 PM",
+            "Friday: 4:00 AM – 11:30 PM",
+            "Saturday: 4:00 AM – 11:30 PM",
+            "Sunday: 4:00 AM – 11:30 PM"
+          ]
+        },
+        "overview": "Seattle's largest green space features miles of rugged trails & beaches, plus views of the Sound.",
+        "geometry": {
+          "location": {
+            "lat": 47.6613197,
+            "lng": -122.4171413
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.66772704999999,
+              "lng": -122.39756975
+            },
+            "southwest": {
+              "lat": 47.65518805000001,
+              "lng": -122.42366515
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+        "photos": [
+          {
+            "height": 3113,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116669056302190692125\">Random Rumi&#39;s</a>"
+            ],
+            "photo_reference": "AUc7tXU1IbXz0Da1Q3jN_ITt8Ua33p3CeIAA-rm58qvhlDPe8F7w-IC-ytuiR50aX76eU0l2N5Kmc2wBAlcF1a0uuqhvI4l8Ml-killnzI97st3MRxutmYm85qUxgCX2vR5XiuHzT_dKl_Y7uH3cMOLSk1IjX_hGf07kBFtH05MjDCea0pm2",
+            "width": 4980
+          },
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107593209835848422703\">Damaris Anderson</a>"
+            ],
+            "photo_reference": "AUc7tXUnlbzSUk14gh-YFtiyqj0bEeeHwn30-bgzhg84W13SCz2-XlbQ57mbVr8fK01_YiyVhJMzPishZYHFHsfyu3n_khCyr9BGE5TiVOerJ817n7L3FfpL2wZAubkbMyVGtQqknlZALMwI7SolKJUmyVl39B41TnpCU2MOb63wCVDrWorT",
+            "width": 3024
+          },
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101941708593678453787\">Angela Bamfield</a>"
+            ],
+            "photo_reference": "AUc7tXUrev2AQqhVomT38lKbrB0aZssHDqYtguu2nWacIG7CvySnyNxx4FdJkscWeXrHinKeuS4yK8u-r9yozHytyadU1MmGpxryVWFuPHixJUdhs3qZIRdQ0m-9_D0YG1lQ3ojcODH1NWn9eO2mrAQoKls6EDUv8a9gBXvzizz4rKGrph8I",
+            "width": 4032
+          },
+          {
+            "height": 3072,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103390745957294442991\">Vedang Gaonkar</a>"
+            ],
+            "photo_reference": "AUc7tXVyEldZUP_Quqsdo-gqXXWwdYxdJjqiCBXOKu0s1Akpn536gq0wyACeJ57_BXI-oUF5E46g55RM5eH99TY8srQwb7XrSbX8rQ0qbpLGcLYk4ezj_NpYnpO96t-EuqAQRwkJsKjii1Y6wL9j9EKJtucrYj3c-dWoljYVBI9Oy3RbBBi2",
+            "width": 4080
+          },
+          {
+            "height": 3000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114625555698771049750\">Prabash Maduranga</a>"
+            ],
+            "photo_reference": "AUc7tXUW4cBIFzg5ConKDMU34iW68jg8Bssf9-np1yiyo6IMB5B1MX7qao-VRrGQv5WavwVu0JEoNt3t4eP-CfTeU2qT1zYld1aaxQPKiKxtNQepiEi-0jA_9tEvW3061sRoCd8QnWeMsnXf38GwoRIk6zQcBRjw7ePepeOvUSQk4y8YgzH6",
+            "width": 4000
+          },
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108374100328324185124\">Deboleena Roy</a>"
+            ],
+            "photo_reference": "AUc7tXWA8ABV6vmGiMKXcNd2y0ob2eVZukR27gyZzpe6ohHaPwT4ot8uUFEtcWXX6cmgyzU_ePhxmoY7J6Z_TJtajnxAMJR0mwBTNKb7sqHPgCZw_k9LR9fO__m-RVjk-UDwtSqKSBmo3jyeDGwq4EmrspwqZsKzMke08I7zCmdSdZJ2Y5X6",
+            "width": 4032
+          },
+          {
+            "height": 2903,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101405665438051877675\">Chiaki Maxfield</a>"
+            ],
+            "photo_reference": "AUc7tXXwLL-HUxSsHt-qQWg6tBQbWfXcnnr8TfPq98vLoD-T0EAP5RtQTexWg2VRkss2FE_M0VnAfAhBYr9TyJxvXcBEC7wQXQ_3rckTnj7W6II1D3IQHNpvFoaJUhYtLjLPCjFJFhYBSrtdq6ZCF8VgOpU74NmPkNP0UhjU79L3XKV5zFxo",
+            "width": 3871
+          },
+          {
+            "height": 12000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108407421770671293628\">Chris Spurlock</a>"
+            ],
+            "photo_reference": "AUc7tXWyLm2D0PZ6Ed2rXSYvkoxFfM62ywwpUipRIsA1kf1-8r1K81asu4-fnxDP8wrZ5HfqdmbRG47WRvYqLDxmGeFz_hLotnp4nEF5n-rMQ2uZRmIPW7r4wONl2fFp8dxxTTb8V8sKEHPANXVleFbX4-xlgQTxI7avQM2j4BqlC-eDQkrV",
+            "width": 9000
+          },
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107581619870377484689\">Ralph Caffery</a>"
+            ],
+            "photo_reference": "AUc7tXWuxPP-Vu9Ey_tftK8RqmeJ6x_uZ4CKh9CYt7gWhcusDmhntIJHQTkykhP4jyRefKZIzsLHH1g34rzsMU6Iw17PQNs5uco6vdfL9qpoJn_0PmNP3dulWPYgJON0XxeAxqOOwr62YXZl7KMCEHniSLUeLaYRXqZB-xaOyhN11zNGWw4",
+            "width": 3024
+          },
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104738381137236184652\">Aishwarya Gunasekar</a>"
+            ],
+            "photo_reference": "AUc7tXUjz0KTDg6nzyO35StABkFE50pkrIqeCraJefpCoawKo2aJKdC8pRBhLFbXXkUzZm2BB5Y0XYSSdS-CvXLOK8T_NUfCgbOZ6eL_F9E0cKW6U9TOt-nwyVhejf1QyDkcWumRZrhkr1z_S7HPI6O0lMPJwGzl_Hw2vdOq_lUZC4JL1JaG",
+            "width": 3024
+          }
+        ],
+        "rating": 4.8,
+        "user_ratings_total": 7557,
+        "avg_time_to_spend": 180
+      }
+    ],
+    "Day 3": [
+      {
+        "title": "The Museum of Flight Seattle, WA, USA",
+        "og_idx_int": 4,
+        "place_index": 1,
+        "travel_index": [
+          0,
+          1
+        ],
+        "duration": 180,
+        "travel_time_to_this_place": 0.8,
+        "operational_hours": {
+          "open_now": false,
+          "periods": [
+            {
+              "close": {
+                "date": "2024-07-14",
+                "day": 0,
+                "time": "1700"
+              },
+              "open": {
+                "date": "2024-07-14",
+                "day": 0,
+                "time": "1000"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-15",
+                "day": 1,
+                "time": "1700"
+              },
+              "open": {
+                "date": "2024-07-15",
+                "day": 1,
+                "time": "1000"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-16",
+                "day": 2,
+                "time": "1700"
+              },
+              "open": {
+                "date": "2024-07-16",
+                "day": 2,
+                "time": "1000"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-17",
+                "day": 3,
+                "time": "1700"
+              },
+              "open": {
+                "date": "2024-07-17",
+                "day": 3,
+                "time": "1000"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-11",
+                "day": 4,
+                "time": "1700"
+              },
+              "open": {
+                "date": "2024-07-11",
+                "day": 4,
+                "time": "1000"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-12",
+                "day": 5,
+                "time": "1700"
+              },
+              "open": {
+                "date": "2024-07-12",
+                "day": 5,
+                "time": "1000"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-13",
+                "day": 6,
+                "time": "1700"
+              },
+              "open": {
+                "date": "2024-07-13",
+                "day": 6,
+                "time": "1000"
+              }
+            }
+          ],
+          "weekday_text": [
+            "Monday: 10:00 AM – 5:00 PM",
+            "Tuesday: 10:00 AM – 5:00 PM",
+            "Wednesday: 10:00 AM – 5:00 PM",
+            "Thursday: 10:00 AM – 5:00 PM",
+            "Friday: 10:00 AM – 5:00 PM",
+            "Saturday: 10:00 AM – 5:00 PM",
+            "Sunday: 10:00 AM – 5:00 PM"
+          ]
+        },
+        "time_slot_to_visit": [
+          "9-15"
+        ],
+        "type": "ACTIVITY",
+        "start_time": 11,
+        "end_time": 14,
+        "current_opening_hours": {
+          "open_now": false,
+          "periods": [
+            {
+              "close": {
+                "date": "2024-07-14",
+                "day": 0,
+                "time": "1700"
+              },
+              "open": {
+                "date": "2024-07-14",
+                "day": 0,
+                "time": "1000"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-15",
+                "day": 1,
+                "time": "1700"
+              },
+              "open": {
+                "date": "2024-07-15",
+                "day": 1,
+                "time": "1000"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-16",
+                "day": 2,
+                "time": "1700"
+              },
+              "open": {
+                "date": "2024-07-16",
+                "day": 2,
+                "time": "1000"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-17",
+                "day": 3,
+                "time": "1700"
+              },
+              "open": {
+                "date": "2024-07-17",
+                "day": 3,
+                "time": "1000"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-11",
+                "day": 4,
+                "time": "1700"
+              },
+              "open": {
+                "date": "2024-07-11",
+                "day": 4,
+                "time": "1000"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-12",
+                "day": 5,
+                "time": "1700"
+              },
+              "open": {
+                "date": "2024-07-12",
+                "day": 5,
+                "time": "1000"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-13",
+                "day": 6,
+                "time": "1700"
+              },
+              "open": {
+                "date": "2024-07-13",
+                "day": 6,
+                "time": "1000"
+              }
+            }
+          ],
+          "weekday_text": [
+            "Monday: 10:00 AM – 5:00 PM",
+            "Tuesday: 10:00 AM – 5:00 PM",
+            "Wednesday: 10:00 AM – 5:00 PM",
+            "Thursday: 10:00 AM – 5:00 PM",
+            "Friday: 10:00 AM – 5:00 PM",
+            "Saturday: 10:00 AM – 5:00 PM",
+            "Sunday: 10:00 AM – 5:00 PM"
+          ]
+        },
+        "overview": "Large educational museum with aircraft & space vehicles on display, plus historical exhibits.",
+        "geometry": {
+          "location": {
+            "lat": 47.5185379,
+            "lng": -122.2968545
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.5197155,
+              "lng": -122.29289375
+            },
+            "southwest": {
+              "lat": 47.5167443,
+              "lng": -122.30242235
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+        "photos": [
+          {
+            "height": 3456,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114246814151335572510\">David Iwanow</a>"
+            ],
+            "photo_reference": "AUc7tXXI3DsLt1Zu3lBcbkFFu_yWT6kGCtTyiHtY6DALi1nRIqBh3axPPjehyjQsAoylZu546kZu33u2U8g3_2pmk3pM32wmhMTNgBOKtmPL1C_ELbSKD-u0DTTvvzBYqpxE67Wk0yPUWh1AOo8k7DjObql0ClOTBTwPSnikkf2QLgbcWAWX",
+            "width": 5184
+          },
+          {
+            "height": 2268,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105558874689868239722\">Hugo Motoyama</a>"
+            ],
+            "photo_reference": "AUc7tXWZylxMm8B9ThPHZJXVgiWD_WLH0S2qr3kgVwueR5vxhtTcFvcEzJkWH4ZLPwOH1kVMhy9vmXRmuODvBuPLryGF2JjPRTmBaT4YZQwSgSQWD5rhA7txaw1_bZtnr6jBhfM2M0L8eMjlmRrj3kQFUVQBwdKFRlYaw6k5841dO_G-pV_A",
+            "width": 4032
+          },
+          {
+            "height": 3456,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114227018716493946804\">Jason Yee</a>"
+            ],
+            "photo_reference": "AUc7tXVy5eTKTYfoSC273OXpd4mha2d-uYOpeoSDp5hPCs_3QKXgHh7s469EJ1cwnWtTq3GU0K2WfWwN2Hr6ZidkH2xnHVgLZ1k5NplHG1ceY04jDE_HJuDsgRmCxzZj5Ix8Kj947oOSOAmbp1bu8xO4AXxKs262mL6vzeHZZekcZ_GRFU8S",
+            "width": 4608
+          },
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/107201482216913175002\">박Henry</a>"
+            ],
+            "photo_reference": "AUc7tXUc17P9OksIIqKJO446ufltjpa_sjGMYnUPiPPsT_gTXncL3rp-v7M5RzKiDazQ3K58x5SUg9xVWqw1jkTEYJP7JRtxGS2-VSj1P6JfvDQXPfdRL9QSqfomqoFksXNheJ11Q0VHwFni_zADs6RHyqokYdtWCDU4AMuTvCuThbAH3a1g",
+            "width": 3024
+          },
+          {
+            "height": 4032,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112251907484855853863\">Seafood Market Panama City Beach</a>"
+            ],
+            "photo_reference": "AUc7tXVmBUkDJO1YxzyJaVRGDpIkOZgsB_7-jlm6kDQwGw2GdZoT9tMEyokTJ-MPbPdiYA8Bo5wp_nFKARNJLmFJ2YKZNm5hqoY2f0MMTj6y5GDV2Gv1jDlhkHVlzyZ5C5WUAnrz3X-9huIRZMPzZ03ulwFzUvhjP5hTWfXuIFxQfJOUeaEe",
+            "width": 3024
+          },
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/101925339734841314839\">Tal Erickson</a>"
+            ],
+            "photo_reference": "AUc7tXXRhX2pcEans5HhkkXy5f8M2FkauO8RFW8MvNiGA2pDAKo-J03g4kRSbFmkHL5daZDCgCCchPw5D5tm7vUpEuU2RV0_hTU4REsYyrmBDHrLhg2f8KJLR8xwogtZPIcHWx1P2Iffvtts-lnjfNHaMG30Wo9Yi3b1UqQsyI1eFRzwLlnj",
+            "width": 4032
+          },
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112920984039228848538\">Sulav Kafley</a>"
+            ],
+            "photo_reference": "AUc7tXUDGXKIhPotm_G7neCSNmrxg4t7178si6zBYG4FOvTI-MVO0COh9VPyC2tIwbG8unD8Gs2t3698hu8Zrvltdze9-4xNhwmtpVtBFH9d-k8d2tmu7tLlzCHDNxf_1XNDX5c8NKd6nkmiFG1y6dDqKR9cjRXpwr7gjt-ckiu35J6SCDPJ",
+            "width": 4032
+          },
+          {
+            "height": 3000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114224806449424080905\">Giuseppe D&#39;Elia</a>"
+            ],
+            "photo_reference": "AUc7tXVjXcMyC7gbAP40kC4LCtJ14Gfy1wYG8rYtU4iVe90HkdOtOz7gJ63zhM-yxUCtp_BxxkCtF4TEB1rd8N8yndy1899hCrW1E4KiDjYebh1hLumCfr6SPeYP_SQJTFLG-ieErVZJJrKX6Wj9Q8l9saoVt8_YvfKViRxYNJHyIYlDi31k",
+            "width": 4000
+          },
+          {
+            "height": 3000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110422352606320219377\">AMY MUNNS</a>"
+            ],
+            "photo_reference": "AUc7tXX-3l2FiBdg-ysz258fKE770tzErst0mfNuOYHKBtGL4hDAe5FWpJXybqaex1TdH9o1uvFkqEKEatUrj0uMSEFEYT2EOa90uwHpDxvJ_-JXGSCojhhxaoo05PZn9_DKHrRbl4wtaad3bpgSnAbCrDn6zCN-0Cqv1e8D5AC0XG_zYOgR",
+            "width": 4000
+          },
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/115862609008858478858\">Kathirazhagan Appavoo</a>"
+            ],
+            "photo_reference": "AUc7tXWOpAmKY_7f8yXJ8AqTmm1SzLUCHnQpEzhrjkfUtORA6yMPYSQX3_iz46ZdBAXeuTwA4-9HfiXgkfwFo7ebNE4fo2JyoJXpazjk83Cu6G7pvVcPoHZCs4ha1L5d6bmIMl1MukwOUfsEXNfUL8OaC6jInE4T_tJnKQYWMwtGHqUj2Bqx",
+            "width": 4032
+          }
+        ],
+        "rating": 4.8,
+        "user_ratings_total": 15265,
+        "avg_time_to_spend": 180
+      },
+      {
+        "type": "TRAVEL",
+        "title": "Travel via driving",
+        "start_time": 14,
+        "end_time": 14.47,
+        "metadata": {
+          "walking": {
+            "time_required_mins": 277.95
+          },
+          "transit": {
+            "time_required_mins": 57.9
+          },
+          "driving": {
+            "time_required_mins": 28.43
+          }
+        }
+      },
+      {
+        "title": "Ballard (Hiram M. Chittenden) Locks Seattle, WA, USA",
+        "og_idx_int": 8,
+        "place_index": 5,
+        "travel_index": [
+          1,
+          5
+        ],
+        "duration": 120,
+        "travel_time_to_this_place": 9.5,
+        "operational_hours": {
+          "open_now": true,
+          "periods": [
+            {
+              "close": {
+                "date": "2024-07-14",
+                "day": 0,
+                "time": "2100"
+              },
+              "open": {
+                "date": "2024-07-14",
+                "day": 0,
+                "time": "0700"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-15",
+                "day": 1,
+                "time": "2100"
+              },
+              "open": {
+                "date": "2024-07-15",
+                "day": 1,
+                "time": "0700"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-16",
+                "day": 2,
+                "time": "2100"
+              },
+              "open": {
+                "date": "2024-07-16",
+                "day": 2,
+                "time": "0700"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-17",
+                "day": 3,
+                "time": "2100"
+              },
+              "open": {
+                "date": "2024-07-17",
+                "day": 3,
+                "time": "0700"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-11",
+                "day": 4,
+                "time": "2100"
+              },
+              "open": {
+                "date": "2024-07-11",
+                "day": 4,
+                "time": "0700"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-12",
+                "day": 5,
+                "time": "2100"
+              },
+              "open": {
+                "date": "2024-07-12",
+                "day": 5,
+                "time": "0700"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-13",
+                "day": 6,
+                "time": "2100"
+              },
+              "open": {
+                "date": "2024-07-13",
+                "day": 6,
+                "time": "0700"
+              }
+            }
+          ],
+          "weekday_text": [
+            "Monday: 7:00 AM – 9:00 PM",
+            "Tuesday: 7:00 AM – 9:00 PM",
+            "Wednesday: 7:00 AM – 9:00 PM",
+            "Thursday: 7:00 AM – 9:00 PM",
+            "Friday: 7:00 AM – 9:00 PM",
+            "Saturday: 7:00 AM – 9:00 PM",
+            "Sunday: 7:00 AM – 9:00 PM"
+          ]
+        },
+        "time_slot_to_visit": [
+          "9-15"
+        ],
+        "type": "ACTIVITY",
+        "start_time": 14.47,
+        "end_time": 16.47,
+        "current_opening_hours": {
+          "open_now": true,
+          "periods": [
+            {
+              "close": {
+                "date": "2024-07-14",
+                "day": 0,
+                "time": "2100"
+              },
+              "open": {
+                "date": "2024-07-14",
+                "day": 0,
+                "time": "0700"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-15",
+                "day": 1,
+                "time": "2100"
+              },
+              "open": {
+                "date": "2024-07-15",
+                "day": 1,
+                "time": "0700"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-16",
+                "day": 2,
+                "time": "2100"
+              },
+              "open": {
+                "date": "2024-07-16",
+                "day": 2,
+                "time": "0700"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-17",
+                "day": 3,
+                "time": "2100"
+              },
+              "open": {
+                "date": "2024-07-17",
+                "day": 3,
+                "time": "0700"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-11",
+                "day": 4,
+                "time": "2100"
+              },
+              "open": {
+                "date": "2024-07-11",
+                "day": 4,
+                "time": "0700"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-12",
+                "day": 5,
+                "time": "2100"
+              },
+              "open": {
+                "date": "2024-07-12",
+                "day": 5,
+                "time": "0700"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-13",
+                "day": 6,
+                "time": "2100"
+              },
+              "open": {
+                "date": "2024-07-13",
+                "day": 6,
+                "time": "0700"
+              }
+            }
+          ],
+          "weekday_text": [
+            "Monday: 7:00 AM – 9:00 PM",
+            "Tuesday: 7:00 AM – 9:00 PM",
+            "Wednesday: 7:00 AM – 9:00 PM",
+            "Thursday: 7:00 AM – 9:00 PM",
+            "Friday: 7:00 AM – 9:00 PM",
+            "Saturday: 7:00 AM – 9:00 PM",
+            "Sunday: 7:00 AM – 9:00 PM"
+          ]
+        },
+        "overview": "Waterway with opportunities for viewing salmon during the summer & park with unusual shrubs & trees.",
+        "geometry": {
+          "location": {
+            "lat": 47.66550429999999,
+            "lng": -122.3971838
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.66922879999999,
+              "lng": -122.3934991
+            },
+            "southwest": {
+              "lat": 47.66302600000001,
+              "lng": -122.4030123
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+        "photos": [
+          {
+            "height": 3120,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/114305224851724079291\">jparra2K</a>"
+            ],
+            "photo_reference": "AUc7tXVPhzaxRimO6n3qcrqVL_HNxy94JAz-u5uRHkNtWvfUxk2NoLPwCJNJ0NIeOIcfSrCtO32iqzMHvZI_grtMKbNmSIQ-w6sQPytrsW-l5HxaR5ehtvhhCd7QCXXsNOmm5IGgIFqRfW6zZnTtikvNuCCX_1MTeA9qjP0s_dXE0s_gcM_I",
+            "width": 4680
+          },
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/116644438529706848905\">Louis Pieper</a>"
+            ],
+            "photo_reference": "AUc7tXVmC4TspUpUBXNzKbHSiN9elx-x88-cpPJq4M0XCrV3yaBe_Li2fzdzGTnwCxPU1bTR-DkMtZH2Qphk8kEm2i_oul556bWJQwQ5-YTwgN-gc5CDYr3tJtdvN0FeRlVu758gNC0QmQNwwqrKBwv7Z73XpVrGizxvzLP6b2b1j6Nemepp",
+            "width": 4032
+          },
+          {
+            "height": 3000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110443835774194396971\">Edgar Gaona</a>"
+            ],
+            "photo_reference": "AUc7tXUA0NV8ZQUV8Fp8eEJWWJLWvffS3p2Fv1ahUjbiG1roDzU05sVpzHe3K6GNZ5W1_sfPLlh7Mbxym0wLQ-fyKoVI9wAaascGrgkh_OBN4m29lSMk-fFuS_gqQbBVH2f-CfTsXGukhfosw-jO8KGLp-tRJZ3T98qaHJuYvr-zqraAQnEv",
+            "width": 4000
+          },
+          {
+            "height": 4000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/104545298080454211954\">Christine Memoly Diaz</a>"
+            ],
+            "photo_reference": "AUc7tXUA1SgvSRamVClNa6gli0kR73J35J1rsnzxybcHxXi4Fx8YDlFAjkPhlG4v1XKxIp8fhRkWx60tZtjLbyKPQHpPlaTqiomnbfsBAxnr6LMtSjpSPb2EB-BiycBt4rAtYpM3HbvYrDpH6lMSqtFc95JKgxme_IDm2urkfjSGCbxZfnbq",
+            "width": 3000
+          },
+          {
+            "height": 2577,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106769757185956151674\">Frank Kroger</a>"
+            ],
+            "photo_reference": "AUc7tXVVzvLS2lwi2qSmyk-IRnzyTs5BLl7oaQhLXg4l_-wclgJBhkdwBIzVrz6-WHICtW_fyvVW2F1MSoqlBQUz1_6F9MomquWT5y8igJe9QMlH4sN7fpWpSixqn3fXg9YdJquy4E6z4gcsqOr7t7OkDHLJRvySaWlrSr0ydjDfWkMxIUkW",
+            "width": 4160
+          },
+          {
+            "height": 3000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113731463306405042766\">Treeparna Das</a>"
+            ],
+            "photo_reference": "AUc7tXXmE1U62nWADy99fmHe8srMKdKVXVgXK_dnwjxO_jqcZ7UgEbOJw1NJKHj4oZR-aNoBGc9UQFXlDaQ7zz-eVTxzq-I-DPs1v0D7Z2bYI87gKOu2DND2D2UDvlVMHMunhCMwE9MaAwUb5hC6C-PJyGCjgqryB0rVfTLvuwWeZzsTAQIx",
+            "width": 4000
+          },
+          {
+            "height": 3000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/112740353907175549509\">Chris U</a>"
+            ],
+            "photo_reference": "AUc7tXVTrCg_JeZESxnOwVjk70FI7apBSaZA7xmxeklmMr0MfW8DbIDjz7P9-7_hW1RxDAKizRr3BceimA_DH4A1LU9k45rqxkRBywSw5z27Txeprb5opO6Vukyb26rFgECpdF61MWMO2VSf1PFvLD8s_GnBv5dQtfEAM-9meRNA2L0diNR0",
+            "width": 4000
+          },
+          {
+            "height": 3072,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/103990461370590982565\">Lee Reese</a>"
+            ],
+            "photo_reference": "AUc7tXWefbGG_Q5AjcZisweI5z_vFRlbYWYbZTQYML2lN-LuxYXsvzjJ2swDlBStzwCxF0PzGafv2gxVGVlywsBmB2wMwnLf1bGxAa6SfZ7hOJpk2B_tdGZcjNIp_dDUHhZqeUm5U7QdV8Uvf1RLRGBYHK2mPAvk7P9YpXKnQA5uoHnK8uyO",
+            "width": 4080
+          },
+          {
+            "height": 2268,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105560406831247350329\">Ravi Nagavarapu</a>"
+            ],
+            "photo_reference": "AUc7tXUDmwlH-5O6NOv8PIQj-C7dDLqwXla06YJTaTP48xDXKNoy11xdYUsbkrDEnuWi9IKq66itPmoQgHPeuBsm-QV0gzutdcUJaa_bKbk-DlLc6bXcv289-srEX_vUns0pp1fhcX4KHWgto-x8TqOqJPgF488t4CfLZiEURsNt0yn9QIel",
+            "width": 4032
+          },
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113306775842464448001\">Reecha</a>"
+            ],
+            "photo_reference": "AUc7tXXt7Rmw6BXFsWVCpJuO9MBe1VnGiC9ZlAcRNNLHQJY1Q2B75O6DHimt5QTIMZyoTGL2grl6-uYaoMIrnMGHrfDg49NiXxkDqtFer_pIfC2PDXAyJvhaQVHtvQm-Dc-5KHDKoxnQOpAElcBnS5W7_d4rbyyusFAXgqROt0hp4_g1egW2",
+            "width": 4032
+          }
+        ],
+        "rating": 4.7,
+        "user_ratings_total": 9274,
+        "avg_time_to_spend": 120
+      },
+      {
+        "type": "TRAVEL",
+        "title": "Travel via driving",
+        "start_time": 16.47,
+        "end_time": 16.68,
+        "metadata": {
+          "walking": {
+            "time_required_mins": 90.38
+          },
+          "transit": {
+            "time_required_mins": 35.53
+          },
+          "driving": {
+            "time_required_mins": 12.3
+          }
+        }
+      },
+      {
+        "title": "Kerry Park Seattle, WA, USA",
+        "og_idx_int": 3,
+        "place_index": 0,
+        "travel_index": [
+          -1,
+          -1
+        ],
+        "duration": 60,
+        "travel_time_to_this_place": 0,
+        "operational_hours": {
+          "open_now": true,
+          "periods": [
+            {
+              "close": {
+                "date": "2024-07-14",
+                "day": 0,
+                "time": "2200"
+              },
+              "open": {
+                "date": "2024-07-14",
+                "day": 0,
+                "time": "0600"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-15",
+                "day": 1,
+                "time": "2200"
+              },
+              "open": {
+                "date": "2024-07-15",
+                "day": 1,
+                "time": "0600"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-16",
+                "day": 2,
+                "time": "2200"
+              },
+              "open": {
+                "date": "2024-07-16",
+                "day": 2,
+                "time": "0600"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-17",
+                "day": 3,
+                "time": "2200"
+              },
+              "open": {
+                "date": "2024-07-17",
+                "day": 3,
+                "time": "0600"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-11",
+                "day": 4,
+                "time": "2200"
+              },
+              "open": {
+                "date": "2024-07-11",
+                "day": 4,
+                "time": "0600"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-12",
+                "day": 5,
+                "time": "2200"
+              },
+              "open": {
+                "date": "2024-07-12",
+                "day": 5,
+                "time": "0600"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-13",
+                "day": 6,
+                "time": "2200"
+              },
+              "open": {
+                "date": "2024-07-13",
+                "day": 6,
+                "time": "0600"
+              }
+            }
+          ],
+          "weekday_text": [
+            "Monday: 6:00 AM – 10:00 PM",
+            "Tuesday: 6:00 AM – 10:00 PM",
+            "Wednesday: 6:00 AM – 10:00 PM",
+            "Thursday: 6:00 AM – 10:00 PM",
+            "Friday: 6:00 AM – 10:00 PM",
+            "Saturday: 6:00 AM – 10:00 PM",
+            "Sunday: 6:00 AM – 10:00 PM"
+          ]
+        },
+        "time_slot_to_visit": [
+          "15-18"
+        ],
+        "type": "ACTIVITY",
+        "start_time": 16.68,
+        "end_time": 17.68,
+        "current_opening_hours": {
+          "open_now": true,
+          "periods": [
+            {
+              "close": {
+                "date": "2024-07-14",
+                "day": 0,
+                "time": "2200"
+              },
+              "open": {
+                "date": "2024-07-14",
+                "day": 0,
+                "time": "0600"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-15",
+                "day": 1,
+                "time": "2200"
+              },
+              "open": {
+                "date": "2024-07-15",
+                "day": 1,
+                "time": "0600"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-16",
+                "day": 2,
+                "time": "2200"
+              },
+              "open": {
+                "date": "2024-07-16",
+                "day": 2,
+                "time": "0600"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-17",
+                "day": 3,
+                "time": "2200"
+              },
+              "open": {
+                "date": "2024-07-17",
+                "day": 3,
+                "time": "0600"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-11",
+                "day": 4,
+                "time": "2200"
+              },
+              "open": {
+                "date": "2024-07-11",
+                "day": 4,
+                "time": "0600"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-12",
+                "day": 5,
+                "time": "2200"
+              },
+              "open": {
+                "date": "2024-07-12",
+                "day": 5,
+                "time": "0600"
+              }
+            },
+            {
+              "close": {
+                "date": "2024-07-13",
+                "day": 6,
+                "time": "2200"
+              },
+              "open": {
+                "date": "2024-07-13",
+                "day": 6,
+                "time": "0600"
+              }
+            }
+          ],
+          "weekday_text": [
+            "Monday: 6:00 AM – 10:00 PM",
+            "Tuesday: 6:00 AM – 10:00 PM",
+            "Wednesday: 6:00 AM – 10:00 PM",
+            "Thursday: 6:00 AM – 10:00 PM",
+            "Friday: 6:00 AM – 10:00 PM",
+            "Saturday: 6:00 AM – 10:00 PM",
+            "Sunday: 6:00 AM – 10:00 PM"
+          ]
+        },
+        "overview": "Panoramic views of Downtown & the Space Needle draw visitors to this small neighborhood park.",
+        "geometry": {
+          "location": {
+            "lat": 47.6294692,
+            "lng": -122.3599224
+          },
+          "viewport": {
+            "northeast": {
+              "lat": 47.6308730802915,
+              "lng": -122.3585741697085
+            },
+            "southwest": {
+              "lat": 47.6281751197085,
+              "lng": -122.3612721302915
+            }
+          }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+        "photos": [
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/113166874724152600767\">anita O</a>"
+            ],
+            "photo_reference": "AUc7tXU3Sdx7aJjASmqkJQQXji7Y76GKNe4Vioraxl4Q4-TF6hcmW2s4RdGqlfN-d5-Bo6dg3ahMohq28-uxLc9EfPgLpsoPhmYe9MAZ73eL0hBS_PLeTfhet1CBm_2SL4LN6O7HAzmn3wXppoCwsyucEOoe5z7oVYhpCxIKWkH4ZjvFeSi-",
+            "width": 4032
+          },
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/108048133834477139138\">Colon Melvin</a>"
+            ],
+            "photo_reference": "AUc7tXVRBaDxcOflGowrBsuH2jyuTA0HBUjh46YQQINT2Gm55PFcjhfxByyy3m0zKuxDot06gPRZhfQWm0mFrnkmFDiEjYCYj2oytHJQixh2RBDUuNErjaniKOukA_RCQWQljUdzoxNh5A9U4fF-dwWGmreJgG0CwulhePWuInYxnDre3G13",
+            "width": 4032
+          },
+          {
+            "height": 1333,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/105876774683680561751\">Mark Wu</a>"
+            ],
+            "photo_reference": "AUc7tXUWxIZQ_VDzh9GvbmS2MZOl9XlCc74qLDh8k2Mc_rsdWxpKe3FEJvPYP9OnKPLyS89jh8P90oAdaLHIkl5hcpcVzP2f-jKQP3Ed9VUCshS58MlO3tVNJTAWpolF9OyvT_ZDb69P8Nn5DNdXT0WXYlP994YjlSZx-cvyTiJVJpHxGTyO",
+            "width": 2000
+          },
+          {
+            "height": 5712,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/117138019738402250820\">Vincenzo Prestera</a>"
+            ],
+            "photo_reference": "AUc7tXUpdzrtp871Pq5PslTsan-xVSNsjKbIy7nBv3F0ZW4pLE1UlHIrwLtcnb244DMKTROgrTBkbPGr97LoP98KJTjTWLYq7hTmHHuWh5APvbWYRxPiGT-2AAapOxuZkcEu5FoMpn8TSj9uEQRy_nai9T1vLZwEmiqX42hKmZm3pXiavP2O",
+            "width": 4284
+          },
+          {
+            "height": 4624,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/110894166196524576646\">Tyler Schimpf</a>"
+            ],
+            "photo_reference": "AUc7tXXiWuLNFB6fWN-7ecTe2QzCeca6o-PckK-8c61uPfkf-1rc3BBZD2zLFIQXnjpWrFCM-GK7iRj_KRT9JTZoCoDMOp9lpigE53qG3zK5WrUVIQNdxNuc-V3-2uRXi7csoW9lgk6IYJFHcCbKsCCC_wqcRQugfAmf0v-CUSPC0WERBMp2",
+            "width": 3472
+          },
+          {
+            "height": 333,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111704216711188541507\">Md Omar Faruk</a>"
+            ],
+            "photo_reference": "AUc7tXX7eTryt3-1m0rHOHDdAEqokO-bAVBBJUsHOp79A_sEpIFKMkJsd2hotT85KLsH-Tw13LRR1MLnhhHl3WBowirkg8AkvvgMJbZhhd3HtyckcuhaxykMDJDIUxJPGMobQof-BDmPPHa6sbviYKiGhy4HUKr6zpN0R73IxyErRet-IYgu",
+            "width": 499
+          },
+          {
+            "height": 9000,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106078259748597821868\">Heather Freund</a>"
+            ],
+            "photo_reference": "AUc7tXUn6-QfNZBBG95-YooFaOw4j_1tXiH1tLZBisbeCE_hBm7RaRYNcxNUcdJW58y5Ouq3KFS1PCtuSN4uGRwzteMoENvGDVnE5fkrd4xYRfIQXkItscyhn26b9RZn6VM8wiF89OwPlkm9IzIlyVrBr280BFd7oa4eq4C1EtnHISKy08Oh",
+            "width": 12000
+          },
+          {
+            "height": 3888,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/106895721470929308278\">Per Aastrup Olsen</a>"
+            ],
+            "photo_reference": "AUc7tXWpJ8UBassx78w18gWigbbDvl-gVpgT5ej1cZ2dN_TuStVWf5Imi9_JSb-zN5PfeRYuWyTh4ut1BeiCwmRn9ERRfMo5DEay6y-lqcui8lXYzEucHJPtV4LbrWQsHKzIBxzCB0crVHDZGrE3YwNkxUvtEzOJtBJcbIuQzrmESLY5GP9A",
+            "width": 5184
+          },
+          {
+            "height": 3072,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/118315100214073815835\">Chung-Hui Wang</a>"
+            ],
+            "photo_reference": "AUc7tXWXPjo1sZcvsGg1G_lOw5yzc5XuFuFjNTnSjmijLwtkdkE2U7K2X-pwdxCMyKpTR8te9JaM1zlG4MvQl_cMm8_1LLRttb4-EzlPPAf5wSiFFv0nSh4WVNtGUk_RwAx6j9E--QZ1OjLmCiolR2qLAh4EecmlM4zi-503_AoNV9WRrtxv",
+            "width": 4080
+          },
+          {
+            "height": 3024,
+            "html_attributions": [
+              "<a href=\"https://maps.google.com/maps/contrib/111399603658435776040\">Brian Ringer</a>"
+            ],
+            "photo_reference": "AUc7tXVWetbD-VLkb3haFAc3ny2QEwnE0Gu5QJTUi069tUVCTIrCBT9010CwV2UKfX74QtYesPlq-kSCpPnNfcXGLDf53W5rf-D4pVnnQI-aiVTF8G1s9cKzvybS4XbBfSvPPgcCKPbYoIAZ0P8E7alnzi-dxizZedTF2DrjxH0veXnDqzWv",
+            "width": 4032
+          }
+        ],
+        "rating": 4.8,
+        "user_ratings_total": 16536,
+        "avg_time_to_spend": 60
+      }
+    ]
+  }
+}
