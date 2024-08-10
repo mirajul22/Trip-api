@@ -1,0 +1,58 @@
+{
+  "summary": "Trip to Seattle and Rainier National Park for 21 days with 5 friends",
+  "places": [
+    {
+      "must_visit": true,
+      "place": "Seattle, Washington, USA",
+      "place_duration_value": 7,
+      "place_duration_unit": "days",
+      "place_start_date": "2024/11/11",
+      "place_end_date": "2024/11/15"
+    },
+    {
+      "must_visit": true,
+      "place": "Rainier National Park, Washington, USA",
+      "place_duration_value": null,
+      "place_duration_unit": null,
+      "place_start_date": null,
+      "place_end_date": null
+    },
+    {
+      "must_visit": false,
+      "place": "Mount Rainier, Washington, USA",
+      "place_duration_value": null,
+      "place_duration_unit": null,
+      "place_start_date": null,
+      "place_end_date": null
+    },
+    {
+      "must_visit": false,
+      "place": "Olympic National Park, Washington, USA",
+      "place_duration_value": null,
+      "place_duration_unit": null,
+      "place_start_date": null,
+      "place_end_date": null
+    },
+    {
+      "must_visit": false,
+      "place": "North Cascades National Park, Washington, USA",
+      "place_duration_value": null,
+      "place_duration_unit": null,
+      "place_start_date": null,
+      "place_end_date": null
+    },
+    {
+      "must_visit": false,
+      "place": "San Juan Islands, Washington, USA",
+      "place_duration_value": null,
+      "place_duration_unit": null,
+      "place_start_date": null,
+      "place_end_date": null
+    }
+  ],
+  "trip_duration_value": 21,
+  "trip_duration_unit": "days",
+  "trip_start_date": null,
+  "trip_end_date": null,
+  "number_of_travelers": 6
+}
